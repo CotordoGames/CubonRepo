@@ -103,4 +103,8 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
 # Auto-generated cache in Assets folder
+<<<<<<< HEAD
 /[Aa]ssets/[Ss]ceneDependencyCache*
+=======
+/[Aa]ssets/[Ss]ceneDependencyCache*
+>>>>>>> cfa31d49a16380797ba49b2c1499c2500c424dc5
