@@ -78,7 +78,7 @@ public class PlayerMovement : MonoBehaviour
     private void HorizontalMovement()
     {
         float direction = input.actions["walk"].ReadValue<float>();
-        bool turning = direction != 0 && Mathf.Sign(direction) != Mathf.Sign(rb.linearVelocityX);
+        bool turning = isGrounded() && direction != 0 && Mathf.Sign(direction) != Mathf.Sign(rb.linearVelocityX) && Mathf.Abs(rb.linearVelocityX) > 0.1f;
 
         if (isGrounded())
         {
@@ -108,11 +108,11 @@ public class PlayerMovement : MonoBehaviour
         }
         else
         {
-            if(rb.linearVelocityX > 0)
+            if(rb.linearVelocityY > 0)
             {
                 state = playerState.jump;
             }
-            else if(rb.linearVelocityX < 0)
+            else if(rb.linearVelocityY < 0)
             {
                 state = playerState.fall;
             }
@@ -151,6 +151,16 @@ public class PlayerMovement : MonoBehaviour
             if (input.actions["jump"].WasPressedThisFrame())
             {
                 rb.linearVelocityY = baseJumpForce;
+            }
+        }
+        else{
+            if(rb.linearVelocityY < 0)
+                rb.gravityScale = fallGravity;
+            else
+                rb.gravityScale = baseGravity;
+            if (input.actions["jump"].WasReleasedThisFrame() && rb.linearVelocityY > 0)
+            {
+                rb.linearVelocityY /= baseJumpCutOff;
             }
         }
     }
