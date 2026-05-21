@@ -133,6 +133,8 @@ GameObject:
   - component: {fileID: 24227324}
   - component: {fileID: 24227328}
   - component: {fileID: 24227323}
+  - component: {fileID: 24227330}
+  - component: {fileID: 24227329}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -191,13 +193,14 @@ MonoBehaviour:
   runSpeed: 13
   runAcceleration: 0.036
   deceleration: 0.5
-  airSpeed: 10
+  airSpeed: 12
   jumpAcceleration: 0.2
   fallAcceleration: 0.1
   baseJumpForce: 14
   baseJumpCutOff: 2
   baseGravity: 3
   fallGravity: 5
+  state: 0
 --- !u!50 &24227325
 Rigidbody2D:
   serializedVersion: 5
@@ -251,7 +254,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -282,7 +285,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_SpriteSortPoint: 0
 --- !u!4 &24227327
 Transform:
@@ -298,7 +301,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 382334478}
-  - {fileID: 519420032}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &24227328
@@ -318,7 +320,41 @@ MonoBehaviour:
   graphWidth: 300
   graphHeight: 100
   velocityScale: 2
-  historyLength: 300
+  historyLength: 400
+--- !u!114 &24227329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 24227322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc7a6fc2aa2be61adbdd8f3e75712a02, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+--- !u!95 &24227330
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 24227322}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 795274725f8eae02597f21e43370bd95, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &382334477
 GameObject:
   m_ObjectHideFlags: 0
@@ -365,6 +401,7 @@ GameObject:
   - component: {fileID: 519420029}
   - component: {fileID: 519420030}
   - component: {fileID: 519420033}
+  - component: {fileID: 519420034}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -397,13 +434,13 @@ MonoBehaviour:
   m_RequiresOpaqueTextureOption: 2
   m_CameraType: 0
   m_Cameras: []
-  m_RendererIndex: -1
+  m_RendererIndex: 0
   m_VolumeLayerMask:
     serializedVersion: 2
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
   m_VolumeFrameworkUpdateModeOption: 2
-  m_RenderPostProcessing: 0
+  m_RenderPostProcessing: 1
   m_Antialiasing: 0
   m_AntialiasingQuality: 2
   m_StopNaN: 0
@@ -453,8 +490,8 @@ Camera:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 0.99979866
-    height: 1
+    width: 1
+    height: 0.9996894
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 34
@@ -472,7 +509,7 @@ Camera:
   m_AllowMSAA: 0
   m_AllowDynamicResolution: 0
   m_ForceIntoRT: 0
-  m_OcclusionCulling: 0
+  m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
 --- !u!4 &519420032
@@ -488,7 +525,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 24227327}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &519420033
 MonoBehaviour:
@@ -514,6 +551,26 @@ MonoBehaviour:
   m_CropFrameX: 0
   m_CropFrameY: 0
   m_StretchFill: 0
+--- !u!114 &519420034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1a9288412281d149a15707fefe4e85d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CameraFollowPlayer
+  target: {fileID: 24227327}
+  targetRb: {fileID: 24227325}
+  smoothTime: 0.12
+  offset: {x: 0, y: 0}
+  lookAheadFactor: 0.35
+  maxLookAhead: 3
+  returnSpeed: 5
+  pixelsPerUnit: 16
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -21779,3 +21836,4 @@ SceneRoots:
   - {fileID: 1538911330}
   - {fileID: 1406307309}
   - {fileID: 856856343}
+  - {fileID: 519420032}

@@ -60,7 +60,7 @@ public class PlayerMovement : MonoBehaviour
     public float baseGravity;
     public float fallGravity;
 
-    private playerState state;
+    public playerState state;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
