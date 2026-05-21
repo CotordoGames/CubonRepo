@@ -19,7 +19,7 @@ public class PlayerAnimation : MonoBehaviour
     {
         if(input.actions["walk"].ReadValue<float>() < 0){
             transform.localScale = new Vector2(-1, transform.localScale.y);
-        } else{
+        } else if(input.actions["walk"].ReadValue<float>() > 0){
             transform.localScale = new Vector2(1, transform.localScale.y);
         }
         switch(pm.state){
