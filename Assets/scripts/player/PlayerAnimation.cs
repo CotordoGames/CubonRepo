@@ -52,6 +52,16 @@ public class PlayerAnimation : MonoBehaviour
                 anim.speed = 1;
                 anim.SetInteger("state", 3);
                 break;
+
+            case PlayerMovement.playerState.groundpounding:
+                anim.speed = 1;
+                anim.SetInteger("state", 4);
+                break;
+
+            case PlayerMovement.playerState.dashing:
+                anim.speed = 1;
+                anim.SetInteger("state", 5);
+                break;
         }
     }
 }

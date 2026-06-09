@@ -1,0 +1,57 @@
+{
+    "version": 1,
+    "name": "Camera",
+    "maps": [
+        {
+            "name": "default",
+            "id": "fee6a88a-e078-4b40-a9f0-2168f35daee0",
+            "actions": [
+                {
+                    "name": "left-right",
+                    "type": "Value",
+                    "id": "71ee4adf-d9b0-4c60-a17a-2069f463eb9a",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "arrows",
+                    "id": "9ac2b92b-946d-4d0e-9966-aa09475b8c71",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "left-right",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "negative",
+                    "id": "69c8dd32-021b-4a82-9b57-861a0c659fe8",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "left-right",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "e739ab86-acfa-4f1f-bc30-7d3085d671d5",
+                    "path": "<Keyboard>/rightArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "left-right",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
