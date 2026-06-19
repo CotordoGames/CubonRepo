@@ -103,10 +103,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 16
-        height: 16
+        x: 16
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -125,10 +125,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 64
-        width: 16
-        height: 16
+        x: 24
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,9 +152,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 64
-        width: 16
-        height: 16
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -177,10 +177,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_3
       rect:
         serializedVersion: 2
-        x: 48
-        y: 64
-        width: 16
-        height: 16
+        x: 40
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,10 +203,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_4
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 16
-        height: 16
+        x: 48
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,10 +225,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_5
       rect:
         serializedVersion: 2
-        x: 80
-        y: 64
-        width: 16
-        height: 16
+        x: 56
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,10 +247,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_6
       rect:
         serializedVersion: 2
-        x: 96
-        y: 64
-        width: 16
-        height: 16
+        x: 64
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,10 +274,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_7
       rect:
         serializedVersion: 2
-        x: 112
-        y: 64
-        width: 16
-        height: 16
+        x: 72
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +300,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_8
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
-        width: 16
-        height: 16
+        x: 80
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,10 +326,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_9
       rect:
         serializedVersion: 2
-        x: 144
-        y: 64
-        width: 16
-        height: 16
+        x: 88
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,10 +353,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_10
       rect:
         serializedVersion: 2
-        x: 160
-        y: 64
-        width: 16
-        height: 16
+        x: 96
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -375,10 +375,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_11
       rect:
         serializedVersion: 2
-        x: 176
-        y: 64
-        width: 16
-        height: 16
+        x: 104
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -401,10 +401,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_12
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
-        width: 16
-        height: 16
+        x: 112
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -427,10 +427,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_13
       rect:
         serializedVersion: 2
-        x: 208
-        y: 64
-        width: 16
-        height: 16
+        x: 120
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -449,10 +449,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_14
       rect:
         serializedVersion: 2
-        x: 224
-        y: 64
-        width: 16
-        height: 16
+        x: 128
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -471,10 +471,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_15
       rect:
         serializedVersion: 2
-        x: 240
-        y: 64
-        width: 16
-        height: 16
+        x: 136
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -493,10 +493,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_16
       rect:
         serializedVersion: 2
-        x: 0
-        y: 48
-        width: 16
-        height: 16
+        x: 144
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -515,10 +515,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_17
       rect:
         serializedVersion: 2
-        x: 16
-        y: 48
-        width: 16
-        height: 16
+        x: 152
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -537,10 +537,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_18
       rect:
         serializedVersion: 2
-        x: 32
-        y: 48
-        width: 16
-        height: 16
+        x: 176
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -559,10 +559,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_19
       rect:
         serializedVersion: 2
-        x: 48
-        y: 48
-        width: 16
-        height: 16
+        x: 184
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -581,10 +581,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_20
       rect:
         serializedVersion: 2
-        x: 64
-        y: 48
-        width: 16
-        height: 16
+        x: 192
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -603,10 +603,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_21
       rect:
         serializedVersion: 2
-        x: 80
-        y: 48
-        width: 16
-        height: 16
+        x: 200
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -625,10 +625,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_22
       rect:
         serializedVersion: 2
-        x: 96
-        y: 48
-        width: 16
-        height: 16
+        x: 208
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -647,10 +647,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_23
       rect:
         serializedVersion: 2
-        x: 112
-        y: 48
-        width: 16
-        height: 16
+        x: 216
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -669,10 +669,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_24
       rect:
         serializedVersion: 2
-        x: 128
-        y: 48
-        width: 16
-        height: 16
+        x: 224
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -691,10 +691,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_25
       rect:
         serializedVersion: 2
-        x: 144
-        y: 48
-        width: 16
-        height: 16
+        x: 232
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -713,10 +713,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_26
       rect:
         serializedVersion: 2
-        x: 160
-        y: 48
-        width: 16
-        height: 16
+        x: 240
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -735,10 +735,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_27
       rect:
         serializedVersion: 2
-        x: 176
-        y: 48
-        width: 16
-        height: 16
+        x: 248
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -757,10 +757,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_28
       rect:
         serializedVersion: 2
-        x: 192
-        y: 48
-        width: 16
-        height: 16
+        x: 16
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -779,10 +779,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_29
       rect:
         serializedVersion: 2
-        x: 208
-        y: 48
-        width: 16
-        height: 16
+        x: 24
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -801,10 +801,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_30
       rect:
         serializedVersion: 2
-        x: 224
-        y: 48
-        width: 16
-        height: 16
+        x: 32
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -823,10 +823,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_31
       rect:
         serializedVersion: 2
-        x: 240
-        y: 48
-        width: 16
-        height: 16
+        x: 40
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -845,10 +845,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_32
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
-        width: 16
-        height: 16
+        x: 48
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -867,10 +867,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_33
       rect:
         serializedVersion: 2
-        x: 16
-        y: 32
-        width: 16
-        height: 16
+        x: 80
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -893,10 +893,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_34
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
-        width: 16
-        height: 16
+        x: 88
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -915,10 +915,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_35
       rect:
         serializedVersion: 2
-        x: 48
-        y: 32
-        width: 16
-        height: 16
+        x: 96
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -937,10 +937,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_36
       rect:
         serializedVersion: 2
-        x: 64
-        y: 32
-        width: 16
-        height: 16
+        x: 104
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -959,10 +959,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_37
       rect:
         serializedVersion: 2
-        x: 80
-        y: 32
-        width: 16
-        height: 16
+        x: 112
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -981,10 +981,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_38
       rect:
         serializedVersion: 2
-        x: 96
-        y: 32
-        width: 16
-        height: 16
+        x: 120
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1003,10 +1003,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_39
       rect:
         serializedVersion: 2
-        x: 112
-        y: 32
-        width: 16
-        height: 16
+        x: 128
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1025,10 +1025,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_40
       rect:
         serializedVersion: 2
-        x: 128
-        y: 32
-        width: 16
-        height: 16
+        x: 136
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1048,9 +1048,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 144
-        y: 32
-        width: 16
-        height: 16
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1073,10 +1073,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_42
       rect:
         serializedVersion: 2
-        x: 160
-        y: 32
-        width: 16
-        height: 16
+        x: 152
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1099,10 +1099,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_43
       rect:
         serializedVersion: 2
-        x: 176
-        y: 32
-        width: 16
-        height: 16
+        x: 160
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1121,10 +1121,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_44
       rect:
         serializedVersion: 2
-        x: 192
-        y: 32
-        width: 16
-        height: 16
+        x: 168
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1143,10 +1143,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_45
       rect:
         serializedVersion: 2
-        x: 208
-        y: 32
-        width: 16
-        height: 16
+        x: 176
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1165,10 +1165,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_46
       rect:
         serializedVersion: 2
-        x: 224
-        y: 32
-        width: 16
-        height: 16
+        x: 184
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1187,10 +1187,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_47
       rect:
         serializedVersion: 2
-        x: 240
-        y: 32
-        width: 16
-        height: 16
+        x: 192
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1209,10 +1209,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_48
       rect:
         serializedVersion: 2
-        x: 0
-        y: 16
-        width: 16
-        height: 16
+        x: 208
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1235,10 +1235,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_49
       rect:
         serializedVersion: 2
-        x: 16
-        y: 16
-        width: 16
-        height: 16
+        x: 216
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1261,10 +1261,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_50
       rect:
         serializedVersion: 2
-        x: 32
-        y: 16
-        width: 16
-        height: 16
+        x: 224
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1283,10 +1283,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_51
       rect:
         serializedVersion: 2
-        x: 48
-        y: 16
-        width: 16
-        height: 16
+        x: 232
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1305,10 +1305,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_52
       rect:
         serializedVersion: 2
-        x: 64
-        y: 16
-        width: 16
-        height: 16
+        x: 240
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1327,10 +1327,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_53
       rect:
         serializedVersion: 2
-        x: 80
-        y: 16
-        width: 16
-        height: 16
+        x: 248
+        y: 64
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1349,10 +1349,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_54
       rect:
         serializedVersion: 2
-        x: 96
-        y: 16
-        width: 16
-        height: 16
+        x: 32
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1371,10 +1371,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_55
       rect:
         serializedVersion: 2
-        x: 112
-        y: 16
-        width: 16
-        height: 16
+        x: 40
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1393,10 +1393,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_56
       rect:
         serializedVersion: 2
-        x: 128
-        y: 16
-        width: 16
-        height: 16
+        x: 48
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1415,10 +1415,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_57
       rect:
         serializedVersion: 2
-        x: 144
-        y: 16
-        width: 16
-        height: 16
+        x: 72
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1437,10 +1437,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_58
       rect:
         serializedVersion: 2
-        x: 160
-        y: 16
-        width: 16
-        height: 16
+        x: 80
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1459,10 +1459,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_59
       rect:
         serializedVersion: 2
-        x: 176
-        y: 16
-        width: 16
-        height: 16
+        x: 88
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1481,10 +1481,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_60
       rect:
         serializedVersion: 2
-        x: 192
-        y: 16
-        width: 16
-        height: 16
+        x: 96
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1503,10 +1503,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_61
       rect:
         serializedVersion: 2
-        x: 208
-        y: 16
-        width: 16
-        height: 16
+        x: 104
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1525,10 +1525,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_62
       rect:
         serializedVersion: 2
-        x: 224
-        y: 16
-        width: 16
-        height: 16
+        x: 112
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1547,10 +1547,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_63
       rect:
         serializedVersion: 2
-        x: 240
-        y: 16
-        width: 16
-        height: 16
+        x: 120
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1569,10 +1569,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_64
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
+        x: 136
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1591,10 +1591,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_65
       rect:
         serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
+        x: 144
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1613,10 +1613,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_66
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
-        height: 16
+        x: 152
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1635,10 +1635,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_67
       rect:
         serializedVersion: 2
-        x: 48
-        y: 0
-        width: 16
-        height: 16
+        x: 160
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1657,10 +1657,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_68
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 16
-        height: 16
+        x: 168
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1679,10 +1679,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_69
       rect:
         serializedVersion: 2
-        x: 80
-        y: 0
-        width: 16
-        height: 16
+        x: 176
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1701,10 +1701,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_70
       rect:
         serializedVersion: 2
-        x: 96
-        y: 0
-        width: 16
-        height: 16
+        x: 184
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1723,10 +1723,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_71
       rect:
         serializedVersion: 2
-        x: 112
-        y: 0
-        width: 16
-        height: 16
+        x: 192
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1745,10 +1745,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_72
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
-        width: 16
-        height: 16
+        x: 200
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1767,10 +1767,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_73
       rect:
         serializedVersion: 2
-        x: 144
-        y: 0
-        width: 16
-        height: 16
+        x: 208
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1789,10 +1789,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_74
       rect:
         serializedVersion: 2
-        x: 160
-        y: 0
-        width: 16
-        height: 16
+        x: 216
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1811,10 +1811,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_75
       rect:
         serializedVersion: 2
-        x: 176
-        y: 0
-        width: 16
-        height: 16
+        x: 224
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1833,10 +1833,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_76
       rect:
         serializedVersion: 2
-        x: 192
-        y: 0
-        width: 16
-        height: 16
+        x: 240
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1855,10 +1855,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_77
       rect:
         serializedVersion: 2
-        x: 208
-        y: 0
-        width: 16
-        height: 16
+        x: 248
+        y: 56
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1877,10 +1877,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_78
       rect:
         serializedVersion: 2
-        x: 224
-        y: 0
-        width: 16
-        height: 16
+        x: 0
+        y: 48
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1899,10 +1899,10 @@ TextureImporter:
       name: PC _ Computer - Cave Story - Backgrounds - First Cave_79
       rect:
         serializedVersion: 2
-        x: 240
-        y: 0
-        width: 16
-        height: 16
+        x: 8
+        y: 48
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1913,6 +1913,3900 @@ TextureImporter:
       bones: []
       spriteID: 98dc31c4fe90c6ef29ce9f584abafe18
       internalID: 494002916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6643c22c6343e93a882c1217ef589277
+      internalID: -779519986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_81
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9700504db41a8668c840029f3686d12c
+      internalID: 262594993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eb7ee3ff2264dffbf59b40b717ecd2
+      internalID: -1896741958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_83
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5615ede2b9fd342eb822bcc20cbc0d27
+      internalID: -644229275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689e95ea1d44a1253abe0b72e9aaac3d
+      internalID: 772728174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_85
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc7eb2b2fa920232a489429fa251541
+      internalID: -132923217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127bb45507268b371b09e0da59b64533
+      internalID: -963861123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_87
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1602eab368e65bb899ce7e2535d2f72c
+      internalID: 1517406253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_88
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550b8988e9e3978acaa8195c8b23fbef
+      internalID: -929157285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_89
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f28e3bf0a7402d98c4b8b927786ac9
+      internalID: -767567702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa35ce6e21e0ef9f9f18ce532e9df6f
+      internalID: 468564473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_91
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e078a1bf6e19d92ca8c3f7377445ed2
+      internalID: 1372398821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_92
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676383fd89163fe328c78e794b459209
+      internalID: -37448440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_93
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b4cbe8fa406eb2db36c3ffad40a652
+      internalID: -1827274815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575a0e94a9318325ba5b30e45e42a3b3
+      internalID: 882918161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_95
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5edb7745c8b85e3a7d276b400d58c5
+      internalID: -1851735251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c7f84c2b1afdd75aaa43d57b4534f2
+      internalID: -875038901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_97
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a89190913963c01e8a8858ee1d9b8dd
+      internalID: -89635543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a43c1cf79324ac380d466ec32c6876
+      internalID: 791599527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_99
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abaaccbe84f89766b0d8b7afd17e76f
+      internalID: -127499382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b100f10b0ac9fb59ee4cedb9c813bd
+      internalID: -793605000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_101
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6684f4c267273e97b6ca7767dbc8703
+      internalID: 1088002602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_102
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cefd05c1dd4f77ba0e806ce0da8d03
+      internalID: 930996383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a6acf93e8570e40b2ed8fc2d698ca3
+      internalID: -1687672706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_104
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208bf96f2762b2285aec1122332b11c5
+      internalID: -845602374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_105
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e4547573ae68c84a97e4024f7df11f
+      internalID: -1945042040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_106
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a675c85befb373fa029e461fbf64b6
+      internalID: 321635381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979447c541ad254b9aa719999938455c
+      internalID: -222118563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_108
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5259b37dad5391aaba76b0459ae4a6
+      internalID: 1335709246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba26768f21cf33f45a63d397f9436266
+      internalID: -150754157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_110
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac07795a60bd4957f814e85eda31b52b
+      internalID: 1572248722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_111
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04345cab668bcf74a438d8e92494728
+      internalID: -678020534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_112
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f342d8f8b73165ca18d6005845473f3a
+      internalID: 1421758273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_113
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c019b54ece18695788168fd7f68fe7e
+      internalID: -1554304209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dfd5a60700ad37cac677c9be994370
+      internalID: -1168880024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_115
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd000283044a712c8e5f460f646715a
+      internalID: -229628665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_116
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be888f72b4a8154d3b51698a2182cb6b
+      internalID: 367054761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_117
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef150e55bda8bbd029b3e951b8d75324
+      internalID: -1233828988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_118
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bbd051ab60134c587f79029bf07a9c
+      internalID: 120270120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cee01b978264dfb87c6f26b26ddd39
+      internalID: 1261519009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_120
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827e4755f180db99cba47ad4da1a6b03
+      internalID: 814539782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d4902ca985583bcb61004c81c7e314
+      internalID: 1017541066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_122
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9f6d9cec92e0055826d749ee211162
+      internalID: -1603573681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_123
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306c6785a94d71977baf3060b7e1b28a
+      internalID: 1753873197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_124
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a393864dec27f186acac389c11a4186
+      internalID: 879003048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639305235dbe8fa00bf2cd7761c7d0ab
+      internalID: 181835333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_126
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb77290a5f9c44cc898b725952a7438
+      internalID: 1724971255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_127
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e17d81b6ce9b911090402f970c6bc12
+      internalID: 840110955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_128
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb031bf7b7d3b631b7380ba34dd9d1d
+      internalID: 2056010744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_129
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a64f2b0ad125a14a21b00f3aaf72fe
+      internalID: -828354423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_130
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38139ef455a6a47693049cd50806bc0
+      internalID: -577177760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_131
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b928a696f1f4b25a329b757bff3fbe
+      internalID: 1273334879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_132
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7064d59ef19336c6902f0857a2657c2
+      internalID: -892947483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_133
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0049a1e2ed27046ab4e51603d79b6e
+      internalID: -376940505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_134
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ae09c5e0cc5ca8b87a7591c290a243
+      internalID: 1985781521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_135
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5c13febe1c03b49be5dffe3094afb8
+      internalID: -1155217970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_136
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9778aecd2c5772d985872200fb39b7
+      internalID: 1170500131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5017a0aaab520e32ba928b3c3a5e5352
+      internalID: -1448420185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_138
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a3e4cdf9911aef194805cf58e72c67
+      internalID: -1840183198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_139
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe13fbd6f9886d2682f265597891303
+      internalID: -391446289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_140
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72436737684283a158718885d3eb6c4e
+      internalID: 1935997457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_141
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8973d626c5741dfe956c35e2981ad43
+      internalID: 233979460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_142
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8808798226ec97da9f7c81d133f6753
+      internalID: -524218313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_143
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961b30c7d35ee9c4b97385efa9cb53c7
+      internalID: 568420909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_144
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82ccdd170b70d6a9a06f099efecf084
+      internalID: -575701760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_145
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddac33b2f0f11691b4cdf47e6c83b24
+      internalID: -301444476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_146
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3f7b418c7083d02969e779f68a0794
+      internalID: 2078522737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_147
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b12f2efc6493f2cbb849c41116b608
+      internalID: -1363066268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_148
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0b332fe5f99d712bb3cfff5fea4442
+      internalID: -946907156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_149
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66ef9b4e23a7609bb93a5e834d186f8
+      internalID: 1687865758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_150
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446207b37dc83a6999eed69c2f070260
+      internalID: -1766624716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_151
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47438dcbc02d79631abe820967eba859
+      internalID: -1131726941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_152
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7234c88e88be3006a8777a7b6861e177
+      internalID: -1402933825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_153
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936f10dfabd1122839532be05a8bf998
+      internalID: 1823335653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_154
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1972ddb7d992b91f096881e6621463a1
+      internalID: -1452134218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_155
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c05488a0b0ab0ab873e3a0bd879a2a
+      internalID: 1170423472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_156
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27be22083e0cb27b8fe7c9888131406
+      internalID: -1074772549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_157
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d71a7197c7ef58ab261f33d38d55a5
+      internalID: -92532967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_158
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac330644ad986031adc4388aa8745c7
+      internalID: -1559628410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_159
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5ede32999dc175e9f4b6971b9f526a
+      internalID: -976431497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_160
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5822baae85efacb50895af87f5fcb91f
+      internalID: 1993771870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_161
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4679247da63ae4a9c0f34e536c1fbc
+      internalID: 764265911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_162
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d318b23682381763abbd5b735a18de3
+      internalID: 730643574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_163
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe88c0ccaef162a6ea7363cf930a2c20
+      internalID: -14921370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_164
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b112aaf9892a0f2ac426dbf50f6baa
+      internalID: -1927587580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94fee80e73fc6ced85b4c342218dee5
+      internalID: 1964639769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_166
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774d8d1213424aaa5b08eacc39ce87ef
+      internalID: -568164344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_167
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744e4e916eecae296af59fa2e923cd31
+      internalID: -1678788371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_168
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a242d22cc4d79e4ae3d990bc5b72bf
+      internalID: 936806651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_169
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b070c57fe7e5444fc863cc413f05382d
+      internalID: 650872206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_170
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f170f5c990719311ba5a96691a965ea
+      internalID: -1649738362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_171
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de93f68e1c982e07eb81b14c634d78ed
+      internalID: -1170356696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_172
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e36bf4cea1e7b259b2eb7303f6877d
+      internalID: 1086624487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_173
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fd2c925c900b2f586749438ce91802
+      internalID: 1167717427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_174
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434278f1028fb0d6a9b8cbafb1d37e6d
+      internalID: 499688269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_175
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7750760f3a92f92c1bc876cd38d77833
+      internalID: -1137212058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_176
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a830bfbc67ae0c3aa6a0024c069682
+      internalID: 1258396853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_177
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b57cdfccae131c5fbc3b3f2c16173c4
+      internalID: 1687676417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_178
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb8a60621f1844a0a71662568c6516a
+      internalID: -67417835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_179
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fa51295b281467a844cf41f0b60891
+      internalID: -319687198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_180
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9f1d62fe38ffc5ea247daa86c9510b
+      internalID: -1568116493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f30a9194720e9b9a4c639abfbfcd5b
+      internalID: 551724538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_182
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51cf9dabc16df5119af7fa071bd6a85
+      internalID: -1457984177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_183
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64706b02ffbd65fcb0fbf047d5ebee2
+      internalID: 12346325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_184
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27730262b6e8a2eb287fbc121bb6f705
+      internalID: 87206482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_185
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d53c77e2cd07d95ab5d73e85684f84
+      internalID: -1977783408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_186
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822a1b52c1b9b3e3d894497312fcebbd
+      internalID: 1750939732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_187
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9696b37d8007b19799e8f40e29e2192
+      internalID: 2061671068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_188
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e897dee9de5d47c6b5ac34060769dab
+      internalID: -2100736353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_189
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318cb98ef48fd854d90f974a30259e5d
+      internalID: 1126411266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_190
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3c403e2501169cbbee5f2aca9c31d3
+      internalID: 682012808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_191
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8defdc8f3128fe933a332643a22cf979
+      internalID: -1430699146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_192
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35d33000303985498ce3506bbcf4b90
+      internalID: 2023128685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_193
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a40b799e0e4bb92b46874622d178ac
+      internalID: -551715166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_194
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52567fd0f259f3e983e70446e88b96b
+      internalID: -604287984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_195
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0d21bd0877552f8afd339805aa583e
+      internalID: -1868882024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_196
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032fc5eac097ce7f6823130ea33d82e2
+      internalID: -198104200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_197
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db96ca76d585c13fab7e6da99164f02f
+      internalID: 167900527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_198
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4683ae6f4584527edbe85eac63622524
+      internalID: -1506729361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_199
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f1cd5e70c8678229d720ec2f192bd1
+      internalID: 706691271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_200
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59a3981af80914868b1a2950dc2e90d
+      internalID: -765156309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_201
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee92c5537210d914a8cb201d1e92f13
+      internalID: 677089247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_202
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b768075fcbc59e2912a77a6d14dd20
+      internalID: -637735235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_203
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0480c143d3277d4e9be17b37deca43d
+      internalID: 8916080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_204
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060efe695d022726e9a1be6d26a42535
+      internalID: 1142677761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_205
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c475abf97a0d9419f7567c58c35a60
+      internalID: -167842089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_206
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3069607c0b6bac7b1c5c62e709ba90
+      internalID: -1738492949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_207
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532b59fb88d1ad0cd90be18c0c1e36d9
+      internalID: 821573848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_208
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ce57f8876935f979546f2a86dd9102
+      internalID: -309813924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_209
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda3e2007fc8dc304afa30311f2cf1df
+      internalID: 997574286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_210
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ff69c85007353e48b952deb94ce2ee
+      internalID: 770659246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_211
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ae975d7ab72dda2ac2aec68373874f
+      internalID: -329750124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_212
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0494eed811870dc9cbecdeae79a38d
+      internalID: -1727015749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_213
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0082dc7362063c65a97484f8952d08f
+      internalID: -1938337501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_214
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c700730130d3ecccea8345b19fff4ea8
+      internalID: 755059504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_215
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a3872205d33ef9a85fac52d7ddc788
+      internalID: -1930496894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_216
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7963b623e29bdeaa4f9af97954051f
+      internalID: -248532262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f840e271cf8ea0481503ad8ebcf39a
+      internalID: 573929748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_218
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7fb43a9ffae0eed8d78e6b3308fd1e
+      internalID: -664244804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_219
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42686dd10039c368f929dc37d0a5e0e6
+      internalID: 884222738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_220
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e461047c5393685a0b816cab7d3e406a
+      internalID: -1312087620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_221
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3361316db1bae5f8a4336f784a78fef
+      internalID: -520028466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_222
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336da34105aedf4b39a4952daa04e4fe
+      internalID: -492308158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_223
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38970d24a853f67bb986ee6d5fd033f
+      internalID: 1642884208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_224
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f67e2eded3d3e0082c8c453b537712
+      internalID: -564822345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_225
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faa238f942370f1ba92fcd0c8f5d859
+      internalID: 312247857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_226
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da3588fbfac63ed7a624caac8d7a455
+      internalID: 821550476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_227
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ed8c4877db1cce6994db760fefd116
+      internalID: -724587054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_228
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c27e3ac371c224697105fc27a94314
+      internalID: 916182522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_229
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8a82bd471df99f6b18836b94a7a335
+      internalID: -2078908943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_230
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c866acdc03a19dacca50c98b4c8c4f83
+      internalID: -798457964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_231
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0573496a821be94a2b1777cf0d43b526
+      internalID: 591409586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_232
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71a2756b0b44343e905f837b0719c8c
+      internalID: -1234272950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_233
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2630483f3e4abea694fcb7a5eedd472
+      internalID: 386714519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_234
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65658e143b123260ad4c622e350f9b6
+      internalID: -1137405093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_235
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ba40e5260fd1cac8faa5cec81ff7f7
+      internalID: -753395893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_236
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d806954048e148747bdf99e79b09aeef
+      internalID: -1317124129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_237
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ead87134729f665b8faca7ef94896d4
+      internalID: -1733830167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_238
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100f13ab10927e091ac15b214df29f31
+      internalID: 665543117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_239
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2546d762dbeeb7f87adb7953ec3bacfe
+      internalID: 652512466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_240
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195085221690602738cf0faf0d47e104
+      internalID: -388991341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_241
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc58882aefdd780e9813eed901e65ee2
+      internalID: -1884599680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_242
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef035a8c93c63161b857d9af6a11d0ff
+      internalID: 745769694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_243
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ceece1d3931339db3351288b282051
+      internalID: 1956148089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_244
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54906cc713f24266396718d491a279c4
+      internalID: -1446152930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_245
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee875003747d4747a1a8310bf48a04f
+      internalID: -1297163088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_246
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c46984ee744546a93e1a0a9668c200
+      internalID: -1375142934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_247
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57232af6c46e8c3ebfee939a6c25e7f
+      internalID: -977301995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_248
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234df14132a28fb5dbddf7f34002721e
+      internalID: -1851040628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_249
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656c37b092c5041998be1105fc6cee88
+      internalID: 118019541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_250
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0ea3d1866580e838ba8915187cebfa
+      internalID: 962592228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_251
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff9945632e3e39a4be5c6d379417b46
+      internalID: 1984019188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_252
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1982d4a617fb517921f7a4324a0b69
+      internalID: -1711226448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_253
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1df1f9657d5c1739e9a93cf7ba810d
+      internalID: -1798931464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_254
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a009e1bfae09cee3ab70b9f9f476ece
+      internalID: 1861339286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_255
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd93f519b559e3b48f4cf9ce3ba2661
+      internalID: -34503627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Cave Story - Backgrounds - First Cave_256
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149d6ff9b931b4669b6f6ed40af9ede4
+      internalID: -1397936997
       vertices: []
       indices: 
       edges: []
@@ -1931,27 +5825,184 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":8.0,"y":8.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       PC _ Computer - Cave Story - Backgrounds - First Cave_0: -6923321754065256978
       PC _ Computer - Cave Story - Backgrounds - First Cave_1: -2044947766
       PC _ Computer - Cave Story - Backgrounds - First Cave_10: -1951941876
+      PC _ Computer - Cave Story - Backgrounds - First Cave_100: -793605000
+      PC _ Computer - Cave Story - Backgrounds - First Cave_101: 1088002602
+      PC _ Computer - Cave Story - Backgrounds - First Cave_102: 930996383
+      PC _ Computer - Cave Story - Backgrounds - First Cave_103: -1687672706
+      PC _ Computer - Cave Story - Backgrounds - First Cave_104: -845602374
+      PC _ Computer - Cave Story - Backgrounds - First Cave_105: -1945042040
+      PC _ Computer - Cave Story - Backgrounds - First Cave_106: 321635381
+      PC _ Computer - Cave Story - Backgrounds - First Cave_107: -222118563
+      PC _ Computer - Cave Story - Backgrounds - First Cave_108: 1335709246
+      PC _ Computer - Cave Story - Backgrounds - First Cave_109: -150754157
       PC _ Computer - Cave Story - Backgrounds - First Cave_11: 977274876
+      PC _ Computer - Cave Story - Backgrounds - First Cave_110: 1572248722
+      PC _ Computer - Cave Story - Backgrounds - First Cave_111: -678020534
+      PC _ Computer - Cave Story - Backgrounds - First Cave_112: 1421758273
+      PC _ Computer - Cave Story - Backgrounds - First Cave_113: -1554304209
+      PC _ Computer - Cave Story - Backgrounds - First Cave_114: -1168880024
+      PC _ Computer - Cave Story - Backgrounds - First Cave_115: -229628665
+      PC _ Computer - Cave Story - Backgrounds - First Cave_116: 367054761
+      PC _ Computer - Cave Story - Backgrounds - First Cave_117: -1233828988
+      PC _ Computer - Cave Story - Backgrounds - First Cave_118: 120270120
+      PC _ Computer - Cave Story - Backgrounds - First Cave_119: 1261519009
       PC _ Computer - Cave Story - Backgrounds - First Cave_12: 1044988271
+      PC _ Computer - Cave Story - Backgrounds - First Cave_120: 814539782
+      PC _ Computer - Cave Story - Backgrounds - First Cave_121: 1017541066
+      PC _ Computer - Cave Story - Backgrounds - First Cave_122: -1603573681
+      PC _ Computer - Cave Story - Backgrounds - First Cave_123: 1753873197
+      PC _ Computer - Cave Story - Backgrounds - First Cave_124: 879003048
+      PC _ Computer - Cave Story - Backgrounds - First Cave_125: 181835333
+      PC _ Computer - Cave Story - Backgrounds - First Cave_126: 1724971255
+      PC _ Computer - Cave Story - Backgrounds - First Cave_127: 840110955
+      PC _ Computer - Cave Story - Backgrounds - First Cave_128: 2056010744
+      PC _ Computer - Cave Story - Backgrounds - First Cave_129: -828354423
       PC _ Computer - Cave Story - Backgrounds - First Cave_13: 633795441
+      PC _ Computer - Cave Story - Backgrounds - First Cave_130: -577177760
+      PC _ Computer - Cave Story - Backgrounds - First Cave_131: 1273334879
+      PC _ Computer - Cave Story - Backgrounds - First Cave_132: -892947483
+      PC _ Computer - Cave Story - Backgrounds - First Cave_133: -376940505
+      PC _ Computer - Cave Story - Backgrounds - First Cave_134: 1985781521
+      PC _ Computer - Cave Story - Backgrounds - First Cave_135: -1155217970
+      PC _ Computer - Cave Story - Backgrounds - First Cave_136: 1170500131
+      PC _ Computer - Cave Story - Backgrounds - First Cave_137: -1448420185
+      PC _ Computer - Cave Story - Backgrounds - First Cave_138: -1840183198
+      PC _ Computer - Cave Story - Backgrounds - First Cave_139: -391446289
       PC _ Computer - Cave Story - Backgrounds - First Cave_14: -1815034586
+      PC _ Computer - Cave Story - Backgrounds - First Cave_140: 1935997457
+      PC _ Computer - Cave Story - Backgrounds - First Cave_141: 233979460
+      PC _ Computer - Cave Story - Backgrounds - First Cave_142: -524218313
+      PC _ Computer - Cave Story - Backgrounds - First Cave_143: 568420909
+      PC _ Computer - Cave Story - Backgrounds - First Cave_144: -575701760
+      PC _ Computer - Cave Story - Backgrounds - First Cave_145: -301444476
+      PC _ Computer - Cave Story - Backgrounds - First Cave_146: 2078522737
+      PC _ Computer - Cave Story - Backgrounds - First Cave_147: -1363066268
+      PC _ Computer - Cave Story - Backgrounds - First Cave_148: -946907156
+      PC _ Computer - Cave Story - Backgrounds - First Cave_149: 1687865758
       PC _ Computer - Cave Story - Backgrounds - First Cave_15: 1754787086
+      PC _ Computer - Cave Story - Backgrounds - First Cave_150: -1766624716
+      PC _ Computer - Cave Story - Backgrounds - First Cave_151: -1131726941
+      PC _ Computer - Cave Story - Backgrounds - First Cave_152: -1402933825
+      PC _ Computer - Cave Story - Backgrounds - First Cave_153: 1823335653
+      PC _ Computer - Cave Story - Backgrounds - First Cave_154: -1452134218
+      PC _ Computer - Cave Story - Backgrounds - First Cave_155: 1170423472
+      PC _ Computer - Cave Story - Backgrounds - First Cave_156: -1074772549
+      PC _ Computer - Cave Story - Backgrounds - First Cave_157: -92532967
+      PC _ Computer - Cave Story - Backgrounds - First Cave_158: -1559628410
+      PC _ Computer - Cave Story - Backgrounds - First Cave_159: -976431497
       PC _ Computer - Cave Story - Backgrounds - First Cave_16: 366057789
+      PC _ Computer - Cave Story - Backgrounds - First Cave_160: 1993771870
+      PC _ Computer - Cave Story - Backgrounds - First Cave_161: 764265911
+      PC _ Computer - Cave Story - Backgrounds - First Cave_162: 730643574
+      PC _ Computer - Cave Story - Backgrounds - First Cave_163: -14921370
+      PC _ Computer - Cave Story - Backgrounds - First Cave_164: -1927587580
+      PC _ Computer - Cave Story - Backgrounds - First Cave_165: 1964639769
+      PC _ Computer - Cave Story - Backgrounds - First Cave_166: -568164344
+      PC _ Computer - Cave Story - Backgrounds - First Cave_167: -1678788371
+      PC _ Computer - Cave Story - Backgrounds - First Cave_168: 936806651
+      PC _ Computer - Cave Story - Backgrounds - First Cave_169: 650872206
       PC _ Computer - Cave Story - Backgrounds - First Cave_17: -1238690507
+      PC _ Computer - Cave Story - Backgrounds - First Cave_170: -1649738362
+      PC _ Computer - Cave Story - Backgrounds - First Cave_171: -1170356696
+      PC _ Computer - Cave Story - Backgrounds - First Cave_172: 1086624487
+      PC _ Computer - Cave Story - Backgrounds - First Cave_173: 1167717427
+      PC _ Computer - Cave Story - Backgrounds - First Cave_174: 499688269
+      PC _ Computer - Cave Story - Backgrounds - First Cave_175: -1137212058
+      PC _ Computer - Cave Story - Backgrounds - First Cave_176: 1258396853
+      PC _ Computer - Cave Story - Backgrounds - First Cave_177: 1687676417
+      PC _ Computer - Cave Story - Backgrounds - First Cave_178: -67417835
+      PC _ Computer - Cave Story - Backgrounds - First Cave_179: -319687198
       PC _ Computer - Cave Story - Backgrounds - First Cave_18: 301591439
+      PC _ Computer - Cave Story - Backgrounds - First Cave_180: -1568116493
+      PC _ Computer - Cave Story - Backgrounds - First Cave_181: 551724538
+      PC _ Computer - Cave Story - Backgrounds - First Cave_182: -1457984177
+      PC _ Computer - Cave Story - Backgrounds - First Cave_183: 12346325
+      PC _ Computer - Cave Story - Backgrounds - First Cave_184: 87206482
+      PC _ Computer - Cave Story - Backgrounds - First Cave_185: -1977783408
+      PC _ Computer - Cave Story - Backgrounds - First Cave_186: 1750939732
+      PC _ Computer - Cave Story - Backgrounds - First Cave_187: 2061671068
+      PC _ Computer - Cave Story - Backgrounds - First Cave_188: -2100736353
+      PC _ Computer - Cave Story - Backgrounds - First Cave_189: 1126411266
       PC _ Computer - Cave Story - Backgrounds - First Cave_19: 159254526
+      PC _ Computer - Cave Story - Backgrounds - First Cave_190: 682012808
+      PC _ Computer - Cave Story - Backgrounds - First Cave_191: -1430699146
+      PC _ Computer - Cave Story - Backgrounds - First Cave_192: 2023128685
+      PC _ Computer - Cave Story - Backgrounds - First Cave_193: -551715166
+      PC _ Computer - Cave Story - Backgrounds - First Cave_194: -604287984
+      PC _ Computer - Cave Story - Backgrounds - First Cave_195: -1868882024
+      PC _ Computer - Cave Story - Backgrounds - First Cave_196: -198104200
+      PC _ Computer - Cave Story - Backgrounds - First Cave_197: 167900527
+      PC _ Computer - Cave Story - Backgrounds - First Cave_198: -1506729361
+      PC _ Computer - Cave Story - Backgrounds - First Cave_199: 706691271
       PC _ Computer - Cave Story - Backgrounds - First Cave_2: 1495016068
       PC _ Computer - Cave Story - Backgrounds - First Cave_20: -426616684
+      PC _ Computer - Cave Story - Backgrounds - First Cave_200: -765156309
+      PC _ Computer - Cave Story - Backgrounds - First Cave_201: 677089247
+      PC _ Computer - Cave Story - Backgrounds - First Cave_202: -637735235
+      PC _ Computer - Cave Story - Backgrounds - First Cave_203: 8916080
+      PC _ Computer - Cave Story - Backgrounds - First Cave_204: 1142677761
+      PC _ Computer - Cave Story - Backgrounds - First Cave_205: -167842089
+      PC _ Computer - Cave Story - Backgrounds - First Cave_206: -1738492949
+      PC _ Computer - Cave Story - Backgrounds - First Cave_207: 821573848
+      PC _ Computer - Cave Story - Backgrounds - First Cave_208: -309813924
+      PC _ Computer - Cave Story - Backgrounds - First Cave_209: 997574286
       PC _ Computer - Cave Story - Backgrounds - First Cave_21: 2096104680
+      PC _ Computer - Cave Story - Backgrounds - First Cave_210: 770659246
+      PC _ Computer - Cave Story - Backgrounds - First Cave_211: -329750124
+      PC _ Computer - Cave Story - Backgrounds - First Cave_212: -1727015749
+      PC _ Computer - Cave Story - Backgrounds - First Cave_213: -1938337501
+      PC _ Computer - Cave Story - Backgrounds - First Cave_214: 755059504
+      PC _ Computer - Cave Story - Backgrounds - First Cave_215: -1930496894
+      PC _ Computer - Cave Story - Backgrounds - First Cave_216: -248532262
+      PC _ Computer - Cave Story - Backgrounds - First Cave_217: 573929748
+      PC _ Computer - Cave Story - Backgrounds - First Cave_218: -664244804
+      PC _ Computer - Cave Story - Backgrounds - First Cave_219: 884222738
       PC _ Computer - Cave Story - Backgrounds - First Cave_22: -1418083930
+      PC _ Computer - Cave Story - Backgrounds - First Cave_220: -1312087620
+      PC _ Computer - Cave Story - Backgrounds - First Cave_221: -520028466
+      PC _ Computer - Cave Story - Backgrounds - First Cave_222: -492308158
+      PC _ Computer - Cave Story - Backgrounds - First Cave_223: 1642884208
+      PC _ Computer - Cave Story - Backgrounds - First Cave_224: -564822345
+      PC _ Computer - Cave Story - Backgrounds - First Cave_225: 312247857
+      PC _ Computer - Cave Story - Backgrounds - First Cave_226: 821550476
+      PC _ Computer - Cave Story - Backgrounds - First Cave_227: -724587054
+      PC _ Computer - Cave Story - Backgrounds - First Cave_228: 916182522
+      PC _ Computer - Cave Story - Backgrounds - First Cave_229: -2078908943
       PC _ Computer - Cave Story - Backgrounds - First Cave_23: -964405474
+      PC _ Computer - Cave Story - Backgrounds - First Cave_230: -798457964
+      PC _ Computer - Cave Story - Backgrounds - First Cave_231: 591409586
+      PC _ Computer - Cave Story - Backgrounds - First Cave_232: -1234272950
+      PC _ Computer - Cave Story - Backgrounds - First Cave_233: 386714519
+      PC _ Computer - Cave Story - Backgrounds - First Cave_234: -1137405093
+      PC _ Computer - Cave Story - Backgrounds - First Cave_235: -753395893
+      PC _ Computer - Cave Story - Backgrounds - First Cave_236: -1317124129
+      PC _ Computer - Cave Story - Backgrounds - First Cave_237: -1733830167
+      PC _ Computer - Cave Story - Backgrounds - First Cave_238: 665543117
+      PC _ Computer - Cave Story - Backgrounds - First Cave_239: 652512466
       PC _ Computer - Cave Story - Backgrounds - First Cave_24: 1894881364
+      PC _ Computer - Cave Story - Backgrounds - First Cave_240: -388991341
+      PC _ Computer - Cave Story - Backgrounds - First Cave_241: -1884599680
+      PC _ Computer - Cave Story - Backgrounds - First Cave_242: 745769694
+      PC _ Computer - Cave Story - Backgrounds - First Cave_243: 1956148089
+      PC _ Computer - Cave Story - Backgrounds - First Cave_244: -1446152930
+      PC _ Computer - Cave Story - Backgrounds - First Cave_245: -1297163088
+      PC _ Computer - Cave Story - Backgrounds - First Cave_246: -1375142934
+      PC _ Computer - Cave Story - Backgrounds - First Cave_247: -977301995
+      PC _ Computer - Cave Story - Backgrounds - First Cave_248: -1851040628
+      PC _ Computer - Cave Story - Backgrounds - First Cave_249: 118019541
       PC _ Computer - Cave Story - Backgrounds - First Cave_25: 2103622529
+      PC _ Computer - Cave Story - Backgrounds - First Cave_250: 962592228
+      PC _ Computer - Cave Story - Backgrounds - First Cave_251: 1984019188
+      PC _ Computer - Cave Story - Backgrounds - First Cave_252: -1711226448
+      PC _ Computer - Cave Story - Backgrounds - First Cave_253: -1798931464
+      PC _ Computer - Cave Story - Backgrounds - First Cave_254: 1861339286
+      PC _ Computer - Cave Story - Backgrounds - First Cave_255: -34503627
+      PC _ Computer - Cave Story - Backgrounds - First Cave_256: -1397936997
       PC _ Computer - Cave Story - Backgrounds - First Cave_26: 771942082
       PC _ Computer - Cave Story - Backgrounds - First Cave_27: 1998441006
       PC _ Computer - Cave Story - Backgrounds - First Cave_28: 1350034817
@@ -2012,7 +6063,27 @@ TextureImporter:
       PC _ Computer - Cave Story - Backgrounds - First Cave_78: -259939748
       PC _ Computer - Cave Story - Backgrounds - First Cave_79: 494002916
       PC _ Computer - Cave Story - Backgrounds - First Cave_8: -2128124730
+      PC _ Computer - Cave Story - Backgrounds - First Cave_80: -779519986
+      PC _ Computer - Cave Story - Backgrounds - First Cave_81: 262594993
+      PC _ Computer - Cave Story - Backgrounds - First Cave_82: -1896741958
+      PC _ Computer - Cave Story - Backgrounds - First Cave_83: -644229275
+      PC _ Computer - Cave Story - Backgrounds - First Cave_84: 772728174
+      PC _ Computer - Cave Story - Backgrounds - First Cave_85: -132923217
+      PC _ Computer - Cave Story - Backgrounds - First Cave_86: -963861123
+      PC _ Computer - Cave Story - Backgrounds - First Cave_87: 1517406253
+      PC _ Computer - Cave Story - Backgrounds - First Cave_88: -929157285
+      PC _ Computer - Cave Story - Backgrounds - First Cave_89: -767567702
       PC _ Computer - Cave Story - Backgrounds - First Cave_9: 1231869850
+      PC _ Computer - Cave Story - Backgrounds - First Cave_90: 468564473
+      PC _ Computer - Cave Story - Backgrounds - First Cave_91: 1372398821
+      PC _ Computer - Cave Story - Backgrounds - First Cave_92: -37448440
+      PC _ Computer - Cave Story - Backgrounds - First Cave_93: -1827274815
+      PC _ Computer - Cave Story - Backgrounds - First Cave_94: 882918161
+      PC _ Computer - Cave Story - Backgrounds - First Cave_95: -1851735251
+      PC _ Computer - Cave Story - Backgrounds - First Cave_96: -875038901
+      PC _ Computer - Cave Story - Backgrounds - First Cave_97: -89635543
+      PC _ Computer - Cave Story - Backgrounds - First Cave_98: 791599527
+      PC _ Computer - Cave Story - Backgrounds - First Cave_99: -127499382
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

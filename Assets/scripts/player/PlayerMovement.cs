@@ -1,18 +1,20 @@
 using UnityEngine;
-using UnityEditor;
 using UnityEngine.InputSystem;
-using System.Threading;
 using System.Collections;
+using FMODUnity;
+
 
 public class PlayerMovement : MonoBehaviour
 {
-    private Rigidbody2D rb;
+    [System.NonSerialized] public Rigidbody2D rb;
     private PlayerInput input;
     public BoxCollider2D feet;
+    public Transform hands;
     public CameraFollowPlayer cam;
     public LayerMask GroundLayer;
     private float direction;
     private bool turning;
+    private StudioEventEmitter em;
 
     [Header("Ground Movement")]
 
@@ -68,7 +70,9 @@ public class PlayerMovement : MonoBehaviour
 
     [Header("GroundPound")]
     //[ToolTip("how fast cubon slams")]
-    public float PoundStrength;
+    public float poundStrength;
+
+    public Vector2 ScreenShake;
 
     //[ToolTip("how high cubon bounces")]
     public float BounceStrength;
@@ -89,10 +93,31 @@ public class PlayerMovement : MonoBehaviour
     public bool IsDashing;
     public bool CanDash = true;
 
+    [Header("Wall Jumping/Sliding")]
+    private bool IsSliding;
+    public float WallSlideSpeed;
+    public bool IsWallJumping;
+    private float WallJumpingDirection;
+    public float WallJumpingTime;
+    private float WallJumpingCounter;
+    public float WallJumpingDuration;
+    public Vector2 WallJumpingPower;
+
+
+    [Header("SFX")] 
+    public EventReference jump;
+
+    private bool Grounded;
+    private bool Walled;
+
+    private bool jumping;
+    private bool sloped;
+
     public playerState state;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        em =  GetComponent<StudioEventEmitter>();
         input = GetComponent<PlayerInput>();
         rb = GetComponent<Rigidbody2D>();
     }
@@ -100,15 +125,36 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        Grounded = isGrounded();
+        sloped = OnSlope();
+        Walled = IsWalled();
         direction = input.actions["walk"].ReadValue<float>();
-        turning = isGrounded() && direction != 0 && Mathf.Sign(direction) != Mathf.Sign(rb.linearVelocityX) && Mathf.Abs(rb.linearVelocityX) > 0.1f;
+        turning = Grounded && direction != 0 && Mathf.Sign(direction) != Mathf.Sign(rb.linearVelocityX) && Mathf.Abs(rb.linearVelocityX) > 0.1f;
 
 
+        WallSlide();
+        WallJump();
         Dash();
         HorizontalMovement();
         VerticalMovement();
         GroundPound();
+
+        if(!IsWallJumping){Flip();}
     }
+
+
+
+    private void Flip()
+    {
+        if(input.actions["walk"].ReadValue<float>() < 0){
+            transform.localScale = new Vector2(-1, transform.localScale.y);
+        } else if(input.actions["walk"].ReadValue<float>() > 0){
+            transform.localScale = new Vector2(1, transform.localScale.y);
+        }
+    }
+
+
 
     private void HorizontalMovement()
     {
@@ -119,7 +165,7 @@ public class PlayerMovement : MonoBehaviour
         }
 
 
-        if (isGrounded())
+        if (Grounded)
         {
             if (turning)
             {
@@ -157,19 +203,23 @@ public class PlayerMovement : MonoBehaviour
             }
         }
 
+        float speed = 0f;
         switch (state)
         {
             case playerState.idle:
                 rb.linearVelocityX = Mathf.MoveTowards(rb.linearVelocityX, 0, deceleration * Time.deltaTime * 60); break;
 
             case playerState.walk:
-                rb.linearVelocityX = Mathf.MoveTowards(rb.linearVelocityX, baseSpeed * direction, baseAcceleration * Time.deltaTime * 60); break;
+                speed = Mathf.MoveTowards(OnSlope() ? rb.linearVelocity.magnitude : Mathf.Abs(rb.linearVelocityX), baseSpeed, baseAcceleration * Time.deltaTime * 60);
+                if (!jumping) rb.linearVelocity = GetGroundNormal() * speed; break;
 
             case playerState.run:
-                rb.linearVelocityX = Mathf.MoveTowards(rb.linearVelocityX, runSpeed * direction, runAcceleration * Time.deltaTime * 60); break;
+                speed = Mathf.MoveTowards(OnSlope() ? rb.linearVelocity.magnitude : Mathf.Abs(rb.linearVelocityX), runSpeed, runAcceleration * Time.deltaTime * 60);
+                if (!jumping) rb.linearVelocity = GetGroundNormal() * speed; break;
 
             case playerState.maxspeed:
-                rb.linearVelocityX = Mathf.MoveTowards(rb.linearVelocityX, runSpeed * direction, runAcceleration * Time.deltaTime * 60); break; //placeholder i forgot why i added this state
+                speed = Mathf.MoveTowards(OnSlope() ? rb.linearVelocity.magnitude : Mathf.Abs(rb.linearVelocityX), runSpeed, runAcceleration * Time.deltaTime * 60); //placeholder i forgot why i added this state
+                if (!jumping) rb.linearVelocity = GetGroundNormal() * speed; break;
 
             case playerState.turning:
                 rb.linearVelocityX = Mathf.MoveTowards(rb.linearVelocityX, 0, deceleration * Time.deltaTime * 60); break;
@@ -186,8 +236,10 @@ public class PlayerMovement : MonoBehaviour
             case playerState.dashing:
                 break;
         }
-        Debug.Log(state);
     }
+
+
+
 
     private void Dash()
     {
@@ -202,6 +254,9 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+
+
+
     private void VerticalMovement()
     {
         if (IsDashing)
@@ -209,14 +264,25 @@ public class PlayerMovement : MonoBehaviour
             return;
         }
 
-        if (isGrounded())
+        if (Grounded && !jumping)
         {
+            if (sloped)
+            {
+                rb.gravityScale = 0;
+            }
+            else
+            {
+                rb.gravityScale = baseGravity;
+            }
             if (input.actions["jump"].WasPressedThisFrame())
             {
+                PlayJumpNoise();
+                jumping = true;
                 rb.linearVelocityY = baseJumpForce;
             }
         }
-        else{
+        else if (!Grounded) {
+            jumping = false;
             if(rb.linearVelocityY < 0)
                 rb.gravityScale = fallGravity;
             else
@@ -228,13 +294,20 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+
+    void PlayJumpNoise()
+    {
+        RuntimeManager.PlayOneShot(jump,  transform.position);
+    }
+    
+
     private void GroundPound()
     {
-        if (!isGrounded())
+        if (!Grounded)
         {
             if (input.actions["pound"].WasPressedThisFrame() && !Pounding)
             {
-                rb.linearVelocityY = PoundStrength;
+                rb.linearVelocityY = poundStrength;
                 state = playerState.groundpounding;
                 Pounding = true;
             }
@@ -247,7 +320,8 @@ public class PlayerMovement : MonoBehaviour
         {
             if (input.actions["pound"].IsPressed() && Pounding)
             {
-                cam.ShakeCamera(1.0f, 0.2f);
+                cam.ShakeCamera(ScreenShake.x, ScreenShake.y);
+                jumping = true;
                 rb.linearVelocityY = BounceStrength;
                 rb.linearVelocityX += GroundPoundSpeedBoost * direction;
                 Pounding = false;
@@ -255,6 +329,13 @@ public class PlayerMovement : MonoBehaviour
             }
         }
     }
+
+
+    private void StopWallJumping()
+    {
+        IsWallJumping = false;
+    }
+
 
     private IEnumerator DashCoroutine()
     {
@@ -265,6 +346,7 @@ public class PlayerMovement : MonoBehaviour
         rb.gravityScale = 0;
 
         // this is our "dash". simply sets velocity X to dash speed.
+        cam.ShakeCamera(ScreenShake.x / 1.5f, ScreenShake.y);
         rb.linearVelocity = new Vector2(transform.localScale.x * DashSpeed, 0f);
 
         // end our dash, set gravity back to normal
@@ -278,8 +360,99 @@ public class PlayerMovement : MonoBehaviour
         CanDash = true;
     }
 
+
+
+
     private bool isGrounded()
     {
         return Physics2D.BoxCast(feet.bounds.center, feet.bounds.size, 0.0f, Vector2.down, 0.2f, GroundLayer);
+    }
+
+
+
+
+    private Vector2 GetGroundNormal()
+    {
+        RaycastHit2D hit = Physics2D.Raycast(
+            new Vector2(feet.bounds.center.x, feet.bounds.min.y), Vector2.down,
+            feet.bounds.extents.y + 0.3f, GroundLayer
+        );
+
+        if(hit && Mathf.Abs(hit.normal.x) > 0.01f)
+        {
+            return new Vector2(hit.normal.y, -hit.normal.x) * Mathf.Sign(direction);
+        }
+        return Vector2.right * Mathf.Sign(direction);
+    }
+
+
+
+
+    private bool IsWalled()
+    {
+        return Physics2D.OverlapCircle(hands.position, 0.2f, GroundLayer);
+    }
+
+
+
+
+    private void WallSlide()
+    {
+        if(Walled && !isGrounded() && direction != 0)
+        {
+            IsSliding = true;
+            rb.linearVelocityY = Mathf.Clamp(rb.linearVelocityY, -WallSlideSpeed, float.MaxValue);
+        }
+        else
+        {
+            IsSliding = false;
+        }
+    }
+
+
+
+
+    private bool OnSlope()
+    {
+        RaycastHit2D hit = Physics2D.Raycast(
+            new Vector2(feet.bounds.center.x, feet.bounds.min.y), Vector2.down,
+            feet.bounds.extents.y + 0.5f, GroundLayer
+        );
+        return hit && Mathf.Abs(hit.normal.x) > 0.01f;
+    }
+
+
+
+    private void WallJump()
+    {
+        if (IsSliding)
+        {
+            IsWallJumping = false;
+            WallJumpingDirection = -transform.localScale.x;
+            WallJumpingCounter = WallJumpingTime;
+
+            CancelInvoke(nameof(StopWallJumping));
+        }
+        else
+        {
+            WallJumpingCounter -= Time.deltaTime;
+        }
+
+        if(input.actions["jump"].WasPressedThisFrame() && WallJumpingCounter > 0)
+        {
+            IsWallJumping = true;
+            rb.linearVelocity = new Vector2(WallJumpingDirection * WallJumpingPower.x, WallJumpingPower.y);
+            WallJumpingCounter = 0f;
+
+            Invoke(nameof(StopWallJumping), WallJumpingDuration);
+        }
+
+        if(IsWallJumping && transform.localScale.x != WallJumpingDirection)
+        {
+            Vector3 localScale = transform.localScale;
+            localScale.x *= -1;
+            transform.localScale = localScale;
+        }
+
     }
 }

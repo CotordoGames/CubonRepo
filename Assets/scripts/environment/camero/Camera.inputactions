@@ -49,6 +49,72 @@
                     "action": "left-right",
                     "isComposite": false,
                     "isPartOfComposite": true
+                },
+                {
+                    "name": "ps4",
+                    "id": "7db505b7-542d-43c6-b8db-e8c40dbc4b72",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "left-right",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "negative",
+                    "id": "06708047-bd51-4355-a0ec-8fd3478dbd08",
+                    "path": "<Gamepad>/dpad/left",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "left-right",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "39a8e5c9-2d7e-4d09-a92e-1666c2f7033f",
+                    "path": "<Gamepad>/dpad/right",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "left-right",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "thumbstick",
+                    "id": "b1101374-32f0-488f-83b2-0c945219a794",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "left-right",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "negative",
+                    "id": "71628811-d27e-4ae0-8bf3-aafc85d38847",
+                    "path": "<Gamepad>/leftStick/left",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "left-right",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "a1f2c82c-6534-48e0-92f6-1fbc8b0f829a",
+                    "path": "<Gamepad>/leftStick/right",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "left-right",
+                    "isComposite": false,
+                    "isPartOfComposite": true
                 }
             ]
         }

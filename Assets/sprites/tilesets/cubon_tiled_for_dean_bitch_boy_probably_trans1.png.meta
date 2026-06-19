@@ -1,0 +1,4748 @@
+fileFormatVersion: 2
+guid: 46536242e7c95d4659b91461ed5f6e7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4459917717085312647
+    second: cubon_tiled_for_dean_bitch_boy_probably_trans1_0
+  - first:
+      213: -5857336739851062874
+    second: cubon_tiled_for_dean_bitch_boy_probably_trans1_1
+  - first:
+      213: 1093394230117317735
+    second: cubon_tiled_for_dean_bitch_boy_probably_trans1_2
+  - first:
+      213: -9203570950861605032
+    second: cubon_tiled_for_dean_bitch_boy_probably_trans1_3
+  - first:
+      213: -3080366780925742141
+    second: cubon_tiled_for_dean_bitch_boy_probably_trans1_4
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979a8a947703b12c0800000000000000
+      internalID: -4459917717085312647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -4}
+        - {x: -4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a13553c44f86bea0800000000000000
+      internalID: -5857336739851062874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -4}
+        - {x: -4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cba9d52448c2f00800000000000000
+      internalID: 1093394230117317735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -4}
+        - {x: -4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8573ac89bf8564080800000000000000
+      internalID: -9203570950861605032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -4}
+        - {x: -4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3f105bbb65045d0800000000000000
+      internalID: -3080366780925742141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -4}
+        - {x: -4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84944e69a4ab79598ce3bdc929a323f
+      internalID: -1709558948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -4}
+        - {x: -4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ba989b84e035d3f8a76df6dfcf2518
+      internalID: 1626134210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: -4, y: -4}
+        - {x: -4, y: -4}
+        - {x: -4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a77675780612f0db9e0e2c07bead8a1
+      internalID: 1828593216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131108cdffe128c92a386a0e7d179279
+      internalID: -1330084209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93fcfb4cf96507cdaf5c631e93371fc
+      internalID: 1998324385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c96bd36bc6ad7f8eb31f9ef07442688
+      internalID: 1874299196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f18f4034c23662559bd0645da45bbec
+      internalID: 1458699976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc47b2834eb421e18d6ac3b96950c7a
+      internalID: -455665480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608c92f960bab3b55836d7bb29e63de1
+      internalID: 1493012827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcfb6fc6cd1e8949be3fb912646d9c9
+      internalID: -689429425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05b38c0079fad534874475dcb79db2a
+      internalID: -532251849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d054783b47b347159ba1f462b3961086
+      internalID: -351470661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16e721e0dec871149088bf4960739c2
+      internalID: -95975166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc5a52fb0203852f8e90bea803a7191
+      internalID: 1993023654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850bb89383e7524059cdb4e27f530ea8
+      internalID: 1909941926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d5d8ee4da2671cb9beba1b41f3f6a3
+      internalID: -225187384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c1a8eb011aadec3aa75c0203671136
+      internalID: 98501252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920f19d8aa2185690a2734d9ec73b057
+      internalID: 970519225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: -4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1991775f012812790b2d7a4665b4b8
+      internalID: 1393024004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290b66033db025106a152333299db12e
+      internalID: -1146853259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3670cf7ecd4816677965d77d3a2d69be
+      internalID: -723086517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7165cef992b669bac1f9ba130c1c6f
+      internalID: 436067904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a467aab39ae9567af93b638411b8ec
+      internalID: -1919344513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03db4b6dca103f642b2e51ce9afa28a7
+      internalID: -233729617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0cca90c0e5c87ddb23bc49a683b5bf
+      internalID: 1573187227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cef94943cb65129bc35cce3e1df7ec
+      internalID: -1855000805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df77fe5a868ccc13c9c1f24f37b3fe4c
+      internalID: 2021535518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ce16a1028e9bd47b4dcf1c85b557c7
+      internalID: -1141079897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddd5696230cf1bea88e16cc5c5c81a1
+      internalID: 1331949115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3024dd55e56fd84c81f93b838b33d75
+      internalID: -649657277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c2afbab5489b81191aa4c58368b829
+      internalID: -1653653958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a64f68e3ac902c3f90fb653cca0f1bf
+      internalID: 1766902113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80147d9651d0a2157a4ebab34f0c1e83
+      internalID: -1828327278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e91debec23eeaae288a04e8edf3098b
+      internalID: -1727351331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_39
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: -4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b113b35f82b16ac80849d2fa423c41
+      internalID: 2023846074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f53897a67dfbb8dd8296a15a422d4c5
+      internalID: 900735213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bac1a3ef1bb4d30ae7c185b18567d6
+      internalID: -86736501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae89e2ba4d1d42dd949b1965efa276b
+      internalID: 1653353214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4be01848480d02f8a3d1074aa15f246
+      internalID: 993915371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e49aaba4968f71308b8ea87eb722166
+      internalID: -631171873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ab0e99f84c6645883bc9852f0444fa
+      internalID: -1781007464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7d8e337ef28c155a6d57ce9085bb16
+      internalID: 814922154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e9b941b6c3c3407b20eb649716e7df
+      internalID: 2046554537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bcdd534b677e0d5ad7af66aada1886
+      internalID: 1607235751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17eefd3b86c7668549534cdeb793d488
+      internalID: -1748722310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562eda4c4a3434fad8ba7e36ba0c0828
+      internalID: -859632521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454a59921ac9e7c90a1fd92c0c4fc964
+      internalID: 1293514957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f4fa2c3285c5aa9bca16781e27af62
+      internalID: -1791690104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24f79e9b9a3246de8448cc5c085059a
+      internalID: -2105618717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afd74889dab61f418f60e1590dcb5a7
+      internalID: 279072101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: -4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577e75cc45c4d663fb5b7a467ef0030c
+      internalID: -1884878943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd43f23b601cc7feb999d26be47f226f
+      internalID: -1907813112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_57
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc816c36ce0c153fbea12fe25ca85e0
+      internalID: 417914158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dcc6e357e93dbe6a7836904608292c
+      internalID: -1695143601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_59
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb35cca91a65b9de386a4d8fd58831ea
+      internalID: -315666340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa74ab6578d33a16e8f6e1c30395d7e0
+      internalID: -1770260894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60ee7a82abb942fab8d4ed3f22b4b9d
+      internalID: -1639130908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec44b4a1776f9b10bb43a00184aafc7
+      internalID: -162613362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_63
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc44f2a77100b6a91a029808dd24ef92
+      internalID: 378972107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a67f92b9cbe5be9b709122d014a29f
+      internalID: -726832831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_65
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813cf1b64801bb57581f17f9f09e8f43
+      internalID: -1196090630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bea61a210f8fc0197d71c1d85f45fe
+      internalID: 1610080325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_67
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d64991f167722d5989e207083fe983
+      internalID: -2009692235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f9ad2839694ab62814a4f68ddb780a
+      internalID: 1791317172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_69
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ced1f6f58edea9b3a8d3d48c9cd7291
+      internalID: 567286432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096385168c69dcea2b551c4ba4cb5239
+      internalID: -1958228280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: -4, y: -4}
+        - {x: -4, y: 4}
+        - {x: -4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804f9633b7f50d1f6bee40f40bccd71f
+      internalID: -1441296899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fa8cd8662109efc902b8691366c898
+      internalID: 401140300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49175f14ee8588f33841cc0f5095b9a1
+      internalID: 1991208936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312f800f4db8a3d8cbcf0cd107dd35dd
+      internalID: 1926901711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_75
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a43c7a631671433b994e7929d9a58a6
+      internalID: -1224597622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60157d1e1c25e19d8a8e5f20e4249754
+      internalID: 735836321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6847d7e12d5aed539abb3c89d01f7271
+      internalID: 1642957452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_78
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e6b02ed87bb32209856a7a03a712f8
+      internalID: -61407726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_79
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c722e637497a99ccbcdb6c5bbddf18d
+      internalID: 1201246917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1574eff4eb7ea5e197d027ebcc34f1c
+      internalID: 1465142564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: -4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6de46d1d74c38b83861efa633d6c8a0
+      internalID: -1829455921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: -4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ef9b037d47c85aba62e5f368132d65
+      internalID: -491732205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_83
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: -4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb00069ac83fc8f68abe921aa00a0b66
+      internalID: 50067065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: -4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb11c7fcf4b8467c0ac4ef925690daac
+      internalID: 267343513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: -4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6680375e479dea60d8e0eedd4b2daaf7
+      internalID: 1894552231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: -4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15d7e20e49c2f27bbd33cfd50b65d6f
+      internalID: -1875517025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_87
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de716aace4f0afe2f85c618eb0616c5b
+      internalID: -140113649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126652f44f09b51bda7093fef822aca6
+      internalID: 2022957703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_89
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9955abe0a88bb0369abdc2449f759cf7
+      internalID: 734993499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403d303a600e2fd9281912fb00f626a8
+      internalID: -687450008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_91
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6144735823cbd31b912ae8a8d71271
+      internalID: -338148435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1047c00c92733cdab396c2454b771e5
+      internalID: -510879108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_93
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f2ae467961a032f8a07255dbe9f00b
+      internalID: -1549562347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_94
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b518a58b351566fa8e0f7b9e2199475
+      internalID: -546923940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_95
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd339829a702b9c4dbc73ff2c0858243
+      internalID: -1568761570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8294efe9f7e9ea7d8e6f4ec0f7a1d8b
+      internalID: -1200568317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_97
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a2a63743dd9864eace303f95b38d6c
+      internalID: 1706191800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f44c4ee8e4cace9aba42007ca51270
+      internalID: 4317975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_99
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc35951c05daf0f4bb8355a64d0afa76
+      internalID: -568086308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0636c6015243e5d8a536d9570e0d78
+      internalID: 230298545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_101
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cf3c0fbab502f00bbd4188f4157c88
+      internalID: -589927534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_102
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fab0764dd5bfa60a4ca144548a5e6f
+      internalID: -1442671600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_103
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34688accff77d0c7a9380aeeb09bcd53
+      internalID: -680624591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bbecdb4a19b6aa0af69304d429df09
+      internalID: 1322876184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_105
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce640285dfa103ea4b42ff52cf5bce95
+      internalID: 391589785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f81a3007a986d2da3cc61f92bc31dc
+      internalID: 1264385519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_107
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cd5c2c565671ba18aa1fc353468ef6
+      internalID: -348471042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa232387bb4f0395ba5f122fcb5afe0
+      internalID: -690532362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_109
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cd4149fdf6fad7dae5bb5a6bd43497
+      internalID: -487566395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_110
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392a58b4bade25d4a9e91623ddb4c215
+      internalID: -1971079069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_111
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aebd734b66e3de782a793db8966d0e
+      internalID: -416415647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae97b806c252a61f894f487cbde68b2
+      internalID: -1832606117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_113
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4207f9aa1604b9cb445499561b2b58
+      internalID: -1067726461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_114
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712dbfb93fdbe230e8b7ff0bd2dc6d0a
+      internalID: -48584365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_115
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48d8f5e3202f439f881528d3091c8ec
+      internalID: 453180665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_116
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012b59de9b9d13700b85027f6530ac95
+      internalID: 100565751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_117
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f3f8914d1daf093aefae56bf1933c6
+      internalID: -1380621431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76eb62c064ab41a418a493874f0b5788
+      internalID: 1271298828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_119
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12f991b4e8a0be51ba896ce8557eb9c
+      internalID: -1849517522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f49c7bbc625ec64a11d7cc609a356f
+      internalID: -71945041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_121
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bbd1b0bf71b8e4fb9d95a6ba659210
+      internalID: -2129240678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_122
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0714b07e5a6a921fe9b0f1558d398ce1
+      internalID: 1250140571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_123
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b15573a5f7d5df1aae6932b6ed7538e
+      internalID: 1209068809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_124
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18944c1e3304f1054ac3e292aaea7ba6
+      internalID: 413623344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_125
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a6cf9a8e9b84309ba6fdb569d5acc8
+      internalID: -452945057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_126
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb6d26cd6d0ce08ba536c0280afe3ef
+      internalID: -1380558609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_127
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d633e351aed483b798c8f2aa388f1ba
+      internalID: -552117055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_128
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2165001e54de4e47ebd2e301b1927374
+      internalID: 1091032482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_129
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9275464a52809b7f1be9d061a521c88e
+      internalID: 2020653719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dc7de62a8101157aaf49b2d032203a
+      internalID: 1263832117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_131
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eae6372fd7a62aa98e5ae280cbd0c9
+      internalID: 1282772817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6b41a97edc06b69a9108a6d850c9b9
+      internalID: -205734443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_133
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221d204a0bf3069c4ae3343ac67f888d
+      internalID: 846163586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_134
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96a1ba67c984e2a1a73ae8178096478
+      internalID: 550424443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_135
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3542065d44806ea86301fa789416c1
+      internalID: 560446123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c89a9e5d21501af38a8c94d62cc7a2c
+      internalID: 1437058623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_137
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51821784f0180903c8bde600b11e45cf
+      internalID: -769125863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_138
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f44ad3649288980833e4ffbc94944a
+      internalID: 2009149449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_139
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92eea8bb70220837489c8ddf520c1331
+      internalID: 2023097651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_140
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: -4, y: -4}
+        - {x: -4, y: -4}
+        - {x: -4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf962ff53a04cd80a06d66b02ea0cb2
+      internalID: 489828945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c83d0e6e7abed4b92aa509e9fa5ceb
+      internalID: 781008904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_142
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcd902c9c78dc2d1bda2c798c958e40
+      internalID: 839943073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_143
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3aa888fae87c633a008e4bfe92882f
+      internalID: -2048468889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_144
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563c2cf24c28a7520937361d24ff7126
+      internalID: -309747009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81c7fb56940a6aa8bf1d506e511d6db
+      internalID: 1585324262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_146
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc437850edb7c2af94ddea2d77dfdff
+      internalID: -1459717622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_147
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661f80d3a936fb2aeb212b6eae557d7e
+      internalID: 324014648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_148
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb0e2d9b3804d4cdb3d382b288b6afe
+      internalID: 1760594731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27568320ed029c6618d0f7ac46ed7c01
+      internalID: 976598309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_150
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa3511d7df35fefd8230dccd01eac2e
+      internalID: 1573381388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_151
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dd07a93524c2dc1a14120812a16553
+      internalID: -852270954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_152
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37330d920c2d14680a7a7ec0f4335e98
+      internalID: -571253056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2c6012993c959a5b9a0b897ee8f683
+      internalID: -257572760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_154
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd00b6f24ab4948499cbba55db817f11
+      internalID: -369074413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_155
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fade6629cdbf460adeabc6af22125c
+      internalID: 2107145528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_156
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1740bbec87e4e1476be767fc0d3ac830
+      internalID: 1245707803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_157
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57b2051a0659e39f8d021fee91a6e98
+      internalID: -1552863117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_158
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af5e598e811ed05fa01fdf2b5ea9839
+      internalID: 580579947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_159
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4980158e17623a842ab182f9aa58d014
+      internalID: -555861987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_160
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b03871274a09b079bcf59fa4bc18928
+      internalID: -1506521771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_161
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d975826dfca6dadaa7f2aad6fd2d989
+      internalID: -933095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_162
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ccf91de03214ebb8c839372dde0120
+      internalID: 2086315255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_163
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faf4cd2d15fa2a9787c0357e4acbc0f
+      internalID: -1427061952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_164
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59df2daffcd7d97348e8464ccf5b35a6
+      internalID: -735008218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673d0070c55afabd3800f5b31cea45cc
+      internalID: 1961642788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_166
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f4ecdcef69deb689cd178a1fd4a31c
+      internalID: -1451044175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_167
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e513e796d6c69708befdf5f00799c4
+      internalID: 186953469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_168
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f5da8b41a60b2a9a411920c350f058
+      internalID: 227711884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e57a8758c55b4674b533fcf379e8210
+      internalID: -722272780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_170
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf18905008170c9299bbffc4480aada0
+      internalID: -1998909563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_171
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246c59341c3f3f9659aa568dd9fe4670
+      internalID: -1399666209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_172
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee9e2aea9515bc1b952179ef272949c
+      internalID: 919757883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_173
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5515e075be783a3e9bb3e938af40e630
+      internalID: -1124953163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_174
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b397fc626de3ca9d9a79f9ba4bf15a8d
+      internalID: 127614264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_175
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33aef58dd76c1d388f9b6a6e0573ca9
+      internalID: -1001782047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_176
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12f45ae70248a4358a0f020f4465e38
+      internalID: 92685634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_177
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62abc6ec69162a8b5ab0782c6a8c8ea6
+      internalID: -521902657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_178
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752fef1cf259bfa66b16bd093b62a5cb
+      internalID: -581884439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_179
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527100a87a9b4ec3c9bbb777ef4697a1
+      internalID: -566220396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_180
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1ea40948b5a798ca2b37328ec7cf2f
+      internalID: 1273583567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_181
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac9c7535f7418e6b9c7bd0d4d141d1c
+      internalID: 660648007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_182
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4799016f723447186b37f7a1787e43
+      internalID: 1610575578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_183
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3320fe475c312898ea430620a23e86
+      internalID: 1035979562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_184
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071208691be64aa8a8fd72f469f55ee3
+      internalID: -348003507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_185
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9279f9a3f0518006a20d217a7af0256
+      internalID: -15678424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_186
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe13f27013ff32d0180f604115b27967
+      internalID: 257715518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_187
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cc9480a60618a1389102935907226f
+      internalID: -2090547063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_188
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092ac40b3c60fd1aab9fc0896f49f4d7
+      internalID: 1304243871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_tiled_for_dean_bitch_boy_probably_trans1_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dcb68e2c64b799d812d6bf818248c7
+      internalID: 2099270651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3cd568d98d4857d369640fb4c9c8736d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":8.0,"y":8.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_0: -4459917717085312647
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_1: -5857336739851062874
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_10: 1874299196
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_100: 230298545
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_101: -589927534
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_102: -1442671600
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_103: -680624591
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_104: 1322876184
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_105: 391589785
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_106: 1264385519
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_107: -348471042
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_108: -690532362
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_109: -487566395
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_11: 1458699976
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_110: -1971079069
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_111: -416415647
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_112: -1832606117
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_113: -1067726461
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_114: -48584365
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_115: 453180665
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_116: 100565751
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_117: -1380621431
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_118: 1271298828
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_119: -1849517522
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_12: -455665480
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_120: -71945041
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_121: -2129240678
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_122: 1250140571
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_123: 1209068809
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_124: 413623344
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_125: -452945057
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_126: -1380558609
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_127: -552117055
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_128: 1091032482
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_129: 2020653719
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_13: 1493012827
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_130: 1263832117
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_131: 1282772817
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_132: -205734443
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_133: 846163586
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_134: 550424443
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_135: 560446123
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_136: 1437058623
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_137: -769125863
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_138: 2009149449
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_139: 2023097651
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_14: -689429425
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_140: 489828945
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_141: 781008904
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_142: 839943073
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_143: -2048468889
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_144: -309747009
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_145: 1585324262
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_146: -1459717622
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_147: 324014648
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_148: 1760594731
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_149: 976598309
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_15: -532251849
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_150: 1573381388
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_151: -852270954
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_152: -571253056
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_153: -257572760
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_154: -369074413
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_155: 2107145528
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_156: 1245707803
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_157: -1552863117
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_158: 580579947
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_159: -555861987
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_16: -351470661
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_160: -1506521771
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_161: -933095
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_162: 2086315255
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_163: -1427061952
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_164: -735008218
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_165: 1961642788
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_166: -1451044175
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_167: 186953469
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_168: 227711884
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_169: -722272780
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_17: -95975166
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_170: -1998909563
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_171: -1399666209
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_172: 919757883
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_173: -1124953163
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_174: 127614264
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_175: -1001782047
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_176: 92685634
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_177: -521902657
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_178: -581884439
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_179: -566220396
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_18: 1993023654
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_180: 1273583567
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_181: 660648007
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_182: 1610575578
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_183: 1035979562
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_184: -348003507
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_185: -15678424
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_186: 257715518
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_187: -2090547063
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_188: 1304243871
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_189: 2099270651
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_19: 1909941926
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_2: 1093394230117317735
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_20: -225187384
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_21: 98501252
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_22: 970519225
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_23: 1393024004
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_24: -1146853259
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_25: -723086517
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_26: 436067904
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_27: -1919344513
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_28: -233729617
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_29: 1573187227
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_3: -9203570950861605032
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_30: -1855000805
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_31: 2021535518
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_32: -1141079897
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_33: 1331949115
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_34: -649657277
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_35: -1653653958
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_36: 1766902113
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_37: -1828327278
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_38: -1727351331
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_39: 2023846074
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_4: -3080366780925742141
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_40: 900735213
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_41: -86736501
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_42: 1653353214
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_43: 993915371
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_44: -631171873
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_45: -1781007464
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_46: 814922154
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_47: 2046554537
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_48: 1607235751
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_49: -1748722310
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_5: -1709558948
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_50: -859632521
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_51: 1293514957
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_52: -1791690104
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_53: -2105618717
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_54: 279072101
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_55: -1884878943
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_56: -1907813112
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_57: 417914158
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_58: -1695143601
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_59: -315666340
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_6: 1626134210
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_60: -1770260894
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_61: -1639130908
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_62: -162613362
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_63: 378972107
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_64: -726832831
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_65: -1196090630
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_66: 1610080325
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_67: -2009692235
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_68: 1791317172
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_69: 567286432
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_7: 1828593216
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_70: -1958228280
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_71: -1441296899
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_72: 401140300
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_73: 1991208936
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_74: 1926901711
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_75: -1224597622
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_76: 735836321
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_77: 1642957452
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_78: -61407726
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_79: 1201246917
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_8: -1330084209
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_80: 1465142564
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_81: -1829455921
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_82: -491732205
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_83: 50067065
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_84: 267343513
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_85: 1894552231
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_86: -1875517025
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_87: -140113649
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_88: 2022957703
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_89: 734993499
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_9: 1998324385
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_90: -687450008
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_91: -338148435
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_92: -510879108
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_93: -1549562347
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_94: -546923940
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_95: -1568761570
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_96: -1200568317
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_97: 1706191800
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_98: 4317975
+      cubon_tiled_for_dean_bitch_boy_probably_trans1_99: -568086308
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

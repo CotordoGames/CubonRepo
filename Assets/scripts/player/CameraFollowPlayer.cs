@@ -17,6 +17,8 @@ public class CameraFollowPlayer : MonoBehaviour
 
     public float lookAheadTime;
 
+    private float currentLookAhead;
+
     void Start()
     {
         input = GetComponent<PlayerInput>();
@@ -24,7 +26,17 @@ public class CameraFollowPlayer : MonoBehaviour
 
     void LateUpdate()
     {
-        transform.position = Vector3.Lerp(transform.position, new Vector3(Mathf.Lerp(target.position.x, target.position.x + lookAhead * input.actions["left-right"].ReadValue<float>(), lookAheadTime * Time.deltaTime * 60), target.position.y, -10f) + shakeOffset, speed * Time.deltaTime * 60);
+        float TargetLookAhead = lookAhead * input.actions["left-right"].ReadValue<float>();
+        currentLookAhead = Mathf.Lerp(currentLookAhead, TargetLookAhead, lookAheadTime * Time.deltaTime * 60);
+
+        float TargetX = target.position.x + currentLookAhead;
+        float TargetY = target.position.y;
+
+        transform.position = new Vector3(
+            TargetX,
+            Mathf.Lerp(transform.position.y, TargetY, speed * Time.deltaTime * 60),
+            -10f
+            ) + shakeOffset;
     }
 
     public void ShakeCamera(float intensity, float length)

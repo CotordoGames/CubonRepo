@@ -1,0 +1,108 @@
+{
+    "version": 1,
+    "name": "NPCBindings",
+    "maps": [
+        {
+            "name": "Default",
+            "id": "dd98dac3-a03f-4858-b3f2-e27f557814ff",
+            "actions": [
+                {
+                    "name": "interact",
+                    "type": "Button",
+                    "id": "dbad92d7-5dd8-4a5a-9e4d-e679a9149115",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "skip",
+                    "type": "Button",
+                    "id": "3e821136-fb11-49a5-974e-5c5d33fe617d",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "advance",
+                    "type": "Button",
+                    "id": "6c5ff80c-88f6-4e57-a04b-90937f2dfb3c",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2091a5ab-38cf-4a32-9854-3e92d9d80fec",
+                    "path": "<Keyboard>/downArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "interact",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "14b433eb-ede5-4323-946a-47dc95ca8e31",
+                    "path": "<Gamepad>/dpad/down",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "interact",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6ead99d3-1a6e-4f55-b7a8-59f4c123823d",
+                    "path": "<Keyboard>/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "skip",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c6673102-a388-4c1e-86bb-f824ed9b441a",
+                    "path": "<Gamepad>/buttonWest",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "skip",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e652a321-4e51-4bcb-97ff-86b5789e1b9d",
+                    "path": "<Keyboard>/z",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "advance",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f604bb63-38d1-49cb-9418-bc26d3a83975",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "advance",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

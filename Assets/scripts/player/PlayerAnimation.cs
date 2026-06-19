@@ -17,11 +17,6 @@ public class PlayerAnimation : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(input.actions["walk"].ReadValue<float>() < 0){
-            transform.localScale = new Vector2(-1, transform.localScale.y);
-        } else if(input.actions["walk"].ReadValue<float>() > 0){
-            transform.localScale = new Vector2(1, transform.localScale.y);
-        }
         switch(pm.state){
             case PlayerMovement.playerState.idle:
                 anim.speed = 1;
