@@ -169,8 +169,8 @@ TextureImporter:
       name: cubon_fameses_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 48
+        x: 150
+        y: 96
         width: 50
         height: 48
       alignment: 0
@@ -191,7 +191,7 @@ TextureImporter:
       name: cubon_fameses_4
       rect:
         serializedVersion: 2
-        x: 50
+        x: 0
         y: 48
         width: 50
         height: 48
@@ -213,7 +213,7 @@ TextureImporter:
       name: cubon_fameses_5
       rect:
         serializedVersion: 2
-        x: 100
+        x: 50
         y: 48
         width: 50
         height: 48
@@ -235,8 +235,8 @@ TextureImporter:
       name: cubon_fameses_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 100
+        y: 48
         width: 50
         height: 48
       alignment: 0
@@ -257,8 +257,8 @@ TextureImporter:
       name: cubon_fameses_7
       rect:
         serializedVersion: 2
-        x: 50
-        y: 0
+        x: 150
+        y: 48
         width: 50
         height: 48
       alignment: 0
@@ -271,6 +271,94 @@ TextureImporter:
       bones: []
       spriteID: adbcf75e19b3f2fcf9e9df2788b3614e
       internalID: -1618575408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_fameses_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2953423c366e83b4a6ef3be106c8125
+      internalID: -712639813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_fameses_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f4aba7c8975cab6b6afdea225536a3
+      internalID: -673248707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_fameses_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844da029c96d2930e8e2f205caba5c07
+      internalID: 1047216014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cubon_fameses_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86999a4b75f9a1124ac9a680e8ecfa55
+      internalID: 85499461
       vertices: []
       indices: 
       edges: []
@@ -293,12 +381,16 @@ TextureImporter:
     nameFileIdTable:
       cubon_fameses_0: 1944294702319807340
       cubon_fameses_1: -2142371707
+      cubon_fameses_10: 1047216014
+      cubon_fameses_11: 85499461
       cubon_fameses_2: 1344206203
       cubon_fameses_3: 564731878
       cubon_fameses_4: 241336141
       cubon_fameses_5: 1281944284
       cubon_fameses_6: 2118411239
       cubon_fameses_7: -1618575408
+      cubon_fameses_8: -712639813
+      cubon_fameses_9: -673248707
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

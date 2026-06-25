@@ -1970,7 +1970,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BasicNPC
   dialogue:
     lines:
-    - portrait: {fileID: 241336141, guid: a2efcaeffc1ee553abb87b7a0716a75e, type: 3}
+    - portrait: {fileID: -64780901, guid: a8a96db672a43b40b8ff59d02eaa9dff, type: 3}
+      speed: 0.036
+      color: {r: 1, g: 1, b: 1, a: 1}
+      sound:
+        Guid:
+          Data1: 0
+          Data2: 0
+          Data3: 0
+          Data4: 0
+        Path: 
+      animation: 
+      sentence: He looks like walter white!
+    - portrait: {fileID: 854736088671844643, guid: a8a96db672a43b40b8ff59d02eaa9dff, type: 3}
       speed: 0.05
       color: {r: 1, g: 1, b: 1, a: 1}
       sound:
@@ -1981,8 +1993,21 @@ MonoBehaviour:
           Data4: 0
         Path: 
       animation: 
-      sentence: hello waltuh.
-    - portrait: {fileID: 808595253, guid: aa6476103cba264ac9295d6e3b0ccb18, type: 3}
+      sentence: You prepare to make a reference.
+    - portrait: {fileID: -537919318, guid: aa6476103cba264ac9295d6e3b0ccb18, type: 3}
+      speed: 0.036
+      color: {r: 1, g: 1, b: 1, a: 1}
+      sound:
+        Guid:
+          Data1: 0
+          Data2: 0
+          Data3: 0
+          Data4: 0
+        Path: 
+      animation: 
+      sentence: Dude... get the fuck away from me... why are you just... standing
+        next to me and... staring..
+    - portrait: {fileID: -1618575408, guid: a2efcaeffc1ee553abb87b7a0716a75e, type: 3}
       speed: 0.05
       color: {r: 1, g: 1, b: 1, a: 1}
       sound:
@@ -1993,10 +2018,9 @@ MonoBehaviour:
           Data4: 0
         Path: 
       animation: 
-      sentence: 'HAAANK! HAAAANK! DONT ABREVIATE CYBERPUNK TO CP!!!
-
-        HAAAAANK!!!!'
-    - portrait: {fileID: 1944294702319807340, guid: a2efcaeffc1ee553abb87b7a0716a75e, type: 3}
+      sentence: O-oh-- my bad, you just, like, look like this guy from a TV show
+        I watch...
+    - portrait: {fileID: -2078004198, guid: aa6476103cba264ac9295d6e3b0ccb18, type: 3}
       speed: 0.05
       color: {r: 1, g: 1, b: 1, a: 1}
       sound:
@@ -2007,7 +2031,103 @@ MonoBehaviour:
           Data4: 0
         Path: 
       animation: 
-      sentence: i love cp so much @
+      sentence: LAAAAAAAAAAAAAAAAAAAAAAAAAAAARP
+    - portrait: {fileID: -1618575408, guid: a2efcaeffc1ee553abb87b7a0716a75e, type: 3}
+      speed: 0.036
+      color: {r: 1, g: 1, b: 1, a: 1}
+      sound:
+        Guid:
+          Data1: 0
+          Data2: 0
+          Data3: 0
+          Data4: 0
+        Path: 
+      animation: 
+      sentence: HUH!?
+    - portrait: {fileID: -2078004198, guid: aa6476103cba264ac9295d6e3b0ccb18, type: 3}
+      speed: 0.036
+      color: {r: 1, g: 1, b: 1, a: 1}
+      sound:
+        Guid:
+          Data1: 0
+          Data2: 0
+          Data3: 0
+          Data4: 0
+        Path: 
+      animation: 
+      sentence: WALTER WHITE isn't GREEN you FOOL!
+    - portrait: {fileID: 1281944284, guid: a2efcaeffc1ee553abb87b7a0716a75e, type: 3}
+      speed: 0.036
+      color: {r: 1, g: 1, b: 1, a: 1}
+      sound:
+        Guid:
+          Data1: 0
+          Data2: 0
+          Data3: 0
+          Data4: 0
+        Path: 
+      animation: 
+      sentence: Oh, you're just stupid. got it.
+    - portrait: {fileID: -848150639, guid: aa6476103cba264ac9295d6e3b0ccb18, type: 3}
+      speed: 0.036
+      color: {r: 1, g: 1, b: 1, a: 1}
+      sound:
+        Guid:
+          Data1: 0
+          Data2: 0
+          Data3: 0
+          Data4: 0
+        Path: 
+      animation: 
+      sentence: '"oH, yOuR''e JuSt StUpId. GoT iT."'
+    - portrait: {fileID: 564731878, guid: a2efcaeffc1ee553abb87b7a0716a75e, type: 3}
+      speed: 0.036
+      color: {r: 1, g: 1, b: 1, a: 1}
+      sound:
+        Guid:
+          Data1: 0
+          Data2: 0
+          Data3: 0
+          Data4: 0
+        Path: 
+      animation: 
+      sentence: Fuck off twink!
+    - portrait: {fileID: 1511126864, guid: aa6476103cba264ac9295d6e3b0ccb18, type: 3}
+      speed: 0.036
+      color: {r: 1, g: 1, b: 1, a: 1}
+      sound:
+        Guid:
+          Data1: 0
+          Data2: 0
+          Data3: 0
+          Data4: 0
+        Path: 
+      animation: 
+      sentence: Make me.
+    - portrait: {fileID: 1344206203, guid: a2efcaeffc1ee553abb87b7a0716a75e, type: 3}
+      speed: 0.036
+      color: {r: 1, g: 1, b: 1, a: 1}
+      sound:
+        Guid:
+          Data1: 0
+          Data2: 0
+          Data3: 0
+          Data4: 0
+        Path: 
+      animation: 
+      sentence: 3... 2... 1...
+    - portrait: {fileID: -1655198910, guid: aa6476103cba264ac9295d6e3b0ccb18, type: 3}
+      speed: 0.036
+      color: {r: 1, g: 1, b: 1, a: 1}
+      sound:
+        Guid:
+          Data1: 0
+          Data2: 0
+          Data3: 0
+          Data4: 0
+        Path: 
+      animation: 
+      sentence: OKAY, OKAY, YEESH.
   onlyTalkOnInteract: 1
   touching: 0
 --- !u!212 &771328317
@@ -17798,7 +17918,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
-  - first: {x: 96, y: -27, z: 0}
+  - first: {x: 92, y: -27, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 64
