@@ -27,7 +27,7 @@ public class PlayerMovement : MonoBehaviour
     public float baseAcceleration;
 
     [Min(0f)]
-    [Tooltip("cubon's maximium speed; after running at a normal pace for a breif moment, he starts accelerating to this")]
+    [Tooltip("cubon's maximium speed; after running at a normal pace for a brief moment, he starts accelerating to this")]
     public int runSpeed;
 
     [Min(0f)]
@@ -106,6 +106,9 @@ public class PlayerMovement : MonoBehaviour
 
     [Header("SFX")] 
     public EventReference jump;
+    public EventReference thud;
+    public EventReference dash;
+    public EventReference wallJump;
 
     private bool Grounded;
     private bool Walled;
@@ -276,7 +279,7 @@ public class PlayerMovement : MonoBehaviour
             }
             if (input.actions["jump"].WasPressedThisFrame())
             {
-                PlayJumpNoise();
+                PlayNoise(jump);
                 jumping = true;
                 rb.linearVelocityY = baseJumpForce;
             }
@@ -295,9 +298,9 @@ public class PlayerMovement : MonoBehaviour
     }
 
 
-    void PlayJumpNoise()
+    void PlayNoise(EventReference e)
     {
-        RuntimeManager.PlayOneShot(jump,  transform.position);
+        RuntimeManager.PlayOneShot(e,  transform.position);
     }
     
 
@@ -320,6 +323,7 @@ public class PlayerMovement : MonoBehaviour
         {
             if (input.actions["pound"].IsPressed() && Pounding)
             {
+                PlayNoise(thud);
                 cam.ShakeCamera(ScreenShake.x, ScreenShake.y);
                 jumping = true;
                 rb.linearVelocityY = BounceStrength;
@@ -339,6 +343,7 @@ public class PlayerMovement : MonoBehaviour
 
     private IEnumerator DashCoroutine()
     {
+        PlayNoise(dash);
         // initialize and prepare for dash; store the gravity and then set it to 0 so our dash is straight
         CanDash = false;
         IsDashing = true;
@@ -440,6 +445,7 @@ public class PlayerMovement : MonoBehaviour
 
         if(input.actions["jump"].WasPressedThisFrame() && WallJumpingCounter > 0)
         {
+            PlayNoise(wallJump);
             IsWallJumping = true;
             rb.linearVelocity = new Vector2(WallJumpingDirection * WallJumpingPower.x, WallJumpingPower.y);
             WallJumpingCounter = 0f;

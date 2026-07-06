@@ -18,4 +18,9 @@ public class DialogueLine
     
     [TextArea(3, 12)]
     public string sentence;
+
+    // both variables are supposed to be under this so rider stop FUCKING WITH IT
+    [Header("Camera")] 
+    public Transform cameraPosition;
+    public float cameraSpeed;
 }

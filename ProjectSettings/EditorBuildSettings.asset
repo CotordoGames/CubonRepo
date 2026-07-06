@@ -6,7 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/SPECIAL/title.unity
+    guid: 4ab0065cffe55904e974d9e0a4978f6f
+  - enabled: 1
+    path: Assets/Scenes/castle/castle_hallway.unity
+    guid: bb081fc0822386337b9978a7b9967dba
+  - enabled: 1
+    path: Assets/Scenes/cube_room.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/castle/castle_lobby.unity
+    guid: 605d5778ae182c4ec8476462dc511193
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

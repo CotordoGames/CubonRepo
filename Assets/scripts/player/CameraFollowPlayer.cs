@@ -7,11 +7,14 @@ using System.Collections;
 public class CameraFollowPlayer : MonoBehaviour
 {
 
+    public DialogueManager dm;
     private Coroutine shakeRoutine;
     private Vector3 shakeOffset;
     private PlayerInput input;
     public Transform target;
     public float speed;
+    public float roomWidth;
+    public float roomHeight;
 
     public float lookAhead;
 
@@ -22,21 +25,25 @@ public class CameraFollowPlayer : MonoBehaviour
     void Start()
     {
         input = GetComponent<PlayerInput>();
+        transform.position = new Vector3(target.position.x, target.position.y, -10f);
     }
 
     void LateUpdate()
     {
-        float TargetLookAhead = lookAhead * input.actions["left-right"].ReadValue<float>();
-        currentLookAhead = Mathf.Lerp(currentLookAhead, TargetLookAhead, lookAheadTime * Time.deltaTime * 60);
+        if (!dm.isTalking)
+        {
+            float TargetLookAhead = lookAhead * input.actions["left-right"].ReadValue<float>();
+            currentLookAhead = Mathf.Lerp(currentLookAhead, TargetLookAhead, lookAheadTime * Time.deltaTime * 60);
 
-        float TargetX = target.position.x + currentLookAhead;
-        float TargetY = target.position.y;
+            float TargetX = target.position.x + currentLookAhead;
+            float TargetY = target.position.y;
 
-        transform.position = new Vector3(
-            TargetX,
-            Mathf.Lerp(transform.position.y, TargetY, speed * Time.deltaTime * 60),
-            -10f
+            transform.position = new Vector3(
+                Mathf.Clamp(TargetX, -roomWidth, roomWidth),
+                Mathf.Clamp(Mathf.Lerp(transform.position.y, TargetY, speed * Time.deltaTime * 60),  -roomHeight, roomHeight),
+                -10f
             ) + shakeOffset;
+        }
     }
 
     public void ShakeCamera(float intensity, float length)
